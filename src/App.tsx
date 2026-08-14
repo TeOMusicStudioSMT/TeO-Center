@@ -188,7 +188,17 @@ function ProstaSekcja({ kotwica }: { kotwica: string }) {
             <p className="mt-2 max-w-2xl text-sm leading-relaxed text-slate-400">{s.wstep}</p>
             <div className="mt-6">
                 {s.tresc
-                    ? <p className="max-w-2xl text-sm leading-relaxed text-slate-300">{s.tresc}</p>
+                    ? <>
+                        <p className="max-w-2xl whitespace-pre-line text-sm leading-relaxed text-slate-300">{s.tresc}</p>
+                        {/* Widoczne oznaczenie cudzego pióra. Na stronie o „JA OBECNY"
+                            podanie moich słów za słowa Suwerena byłoby najgorszym
+                            możliwym błędem — więc mówi się to wprost, na wierzchu. */}
+                        {s.szkic && (
+                            <p className="mt-4 max-w-2xl rounded-lg border border-amber-400/25 bg-amber-500/[0.05] px-3 py-2 text-[10px] leading-relaxed text-amber-200/80">
+                                Szkic Klaudiusza, nie słowa Suwerena — napisany z jednego zdania, do zastąpienia.
+                            </p>
+                        )}
+                      </>
                     : <Miejsce co="Miejsce na treść"
                         dlaczego="Ta sekcja czeka na Twoje słowa i materiały. Tekst wpisujesz w src/tresc.ts, obrazy wrzucasz do public/media/." />}
             </div>

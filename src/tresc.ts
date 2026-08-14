@@ -62,6 +62,13 @@ export interface Sekcja {
     wstep: string;
     /** Gdy puste — komponent pokaże uczciwe „miejsce na materiał". */
     tresc?: string;
+    /**
+     * `true` = tekst napisał Klaudiusz, nie Suweren.
+     * Strona oznacza to widocznie. Cudze słowa podane jako własne byłyby
+     * najgorszym możliwym błędem akurat na TEJ stronie — jest o „JA OBECNY".
+     * Suweren kasuje tę flagę, gdy wpisze swoje.
+     */
+    szkic?: boolean;
 }
 
 export const SEKCJE: Sekcja[] = [
@@ -78,12 +85,29 @@ export const SEKCJE: Sekcja[] = [
     {
         kotwica: 'masja',
         tytul: 'MASJA',
-        wstep: 'Miejsce na treść, którą prowadzisz pod tą nazwą.',
+        wstep: 'Pasja i Misja w jednym słowie. Czyli: Stawanie się.',
+        // ⚠️ SZKIC KLAUDIUSZA, nie słowo Suwerena. Przeszukałem pole —
+        // „MASJA" i „BeReNike" nie występują tam w żadnym czytelnym tekście
+        // (jedyne trafienie to zbieg znaków w pliku zakodowanym base64).
+        // Napisane z jednego zdania Suwerena: „Masja to moja Pasja + Misja,
+        // czyli Stawanie się". Do zastąpienia jego własnymi słowami.
+        tresc:
+            'Pasja bez misji zostaje zachcianką. Misja bez pasji zamienia się w obowiązek. ' +
+            'Dopiero razem robią coś trzeciego — ruch, który nie ma końca i nie potrzebuje go mieć.\n\n' +
+            'MASJA nie jest celem, do którego się dochodzi. Jest sposobem, w jaki się idzie. ' +
+            'Nie „stałem się", tylko „staję się" — czas teraźniejszy, ciągły, ten sam, ' +
+            'który stoi w powitaniu tej strony: TU, TA CHWILA.',
+        szkic: true,
     },
     {
         kotwica: 'perspektywa',
         tytul: 'Sztuka Perspektywy',
-        wstep: 'Dwa spojrzenia na to samo: SP·TeO i SP·BeReNike.',
+        wstep: 'Wynika wprost ze Stawania się. Bo kto się staje, ten patrzy z coraz to innego miejsca.',
+        tresc:
+            'Nic się nie zmienia w rzeczy, na którą patrzysz. Zmienia się miejsce, z którego patrzysz — ' +
+            'i to wystarcza, żeby zobaczyć coś zupełnie innego. Na tym polega cała sztuka.\n\n' +
+            'Dwa spojrzenia prowadzone osobno: SP·TeO i SP·BeReNike. Ta sama rzeczywistość, dwa punkty widzenia.',
+        szkic: true,
     },
     {
         kotwica: 'kontakt',
