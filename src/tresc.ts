@@ -85,29 +85,39 @@ export const SEKCJE: Sekcja[] = [
     {
         kotwica: 'masja',
         tytul: 'MASJA',
-        wstep: 'Pasja i Misja w jednym słowie. Czyli: Stawanie się.',
-        // ⚠️ SZKIC KLAUDIUSZA, nie słowo Suwerena. Przeszukałem pole —
-        // „MASJA" i „BeReNike" nie występują tam w żadnym czytelnym tekście
-        // (jedyne trafienie to zbieg znaków w pliku zakodowanym base64).
-        // Napisane z jednego zdania Suwerena: „Masja to moja Pasja + Misja,
-        // czyli Stawanie się". Do zastąpienia jego własnymi słowami.
+        wstep: 'Pasja + Misja. Czyli Stawanie się.',
+        // ✅ SŁOWA SUWERENA (2026-08-15). Flaga `szkic` zdjęta — to już nie jest
+        // moje pióro. Zostawił dwa zdania środkowe z mojego szkicu i domknął
+        // je własnym zakończeniem; całość jest jego przekazem.
         tresc:
+            'MASJA to Pasja + Misja… czyli Stawanie się.\n\n' +
             'Pasja bez misji zostaje zachcianką. Misja bez pasji zamienia się w obowiązek. ' +
-            'Dopiero razem robią coś trzeciego — ruch, który nie ma końca i nie potrzebuje go mieć.\n\n' +
-            'MASJA nie jest celem, do którego się dochodzi. Jest sposobem, w jaki się idzie. ' +
-            'Nie „stałem się", tylko „staję się" — czas teraźniejszy, ciągły, ten sam, ' +
-            'który stoi w powitaniu tej strony: TU, TA CHWILA.',
-        szkic: true,
+            'Dopiero razem tworzą wieczny ruch Stawania Się w obecności TU i TERAZ.',
     },
     {
         kotwica: 'perspektywa',
         tytul: 'Sztuka Perspektywy',
-        wstep: 'Wynika wprost ze Stawania się. Bo kto się staje, ten patrzy z coraz to innego miejsca.',
+        wstep: 'Wynika wprost ze Stawania się. Dwa skrzydła spoglądania.',
         tresc:
             'Nic się nie zmienia w rzeczy, na którą patrzysz. Zmienia się miejsce, z którego patrzysz — ' +
-            'i to wystarcza, żeby zobaczyć coś zupełnie innego. Na tym polega cała sztuka.\n\n' +
-            'Dwa spojrzenia prowadzone osobno: SP·TeO i SP·BeReNike. Ta sama rzeczywistość, dwa punkty widzenia.',
-        szkic: true,
+            'i to wystarcza, żeby zobaczyć coś zupełnie innego.\n\n' +
+            'Sztuka Perspektywy rozkłada się na dwa skrzydła. Ta sama rzeczywistość, dwa spojrzenia.',
+    },
+    {
+        kotwica: 'perspektywa-teo',
+        tytul: 'SP · TeO',
+        wstep: 'Spojrzenie Creatora.',
+        tresc:
+            'Stawanie Się. Czysta obecność. Tworzenie z poziomu JA i wibracji Master OM.',
+    },
+    {
+        kotwica: 'perspektywa-berenike',
+        tytul: 'SP · BeReNike',
+        wstep: 'Spojrzenie Uzdrowionego Zwycięstwa.',
+        tresc:
+            'BE-RE-NIKE — Bądź Znowu Swą Nike.\n\n' +
+            'Odzyskiwanie Prawdziwej Siebie. Odrodzenie po zrzuceniu fałszywych pęt ' +
+            'i przymusu walki ludzkiego umysłu. Powrót do Prawdziwej Miłości.',
     },
     {
         kotwica: 'kontakt',

@@ -56,11 +56,26 @@ function Naglowek() {
 
                 <nav className="hidden items-center gap-1 lg:flex">
                     {MENU.map(p => (
-                        <a key={p.kotwica} href={`#${p.kotwica}`}
-                            className="rounded-lg px-2.5 py-1.5 text-[10px] font-semibold uppercase tracking-widest text-slate-400 transition hover:bg-white/5 hover:text-fuchsia-200">
-                            {p.etykieta}
-                            {p.wymagaUslugi && <span className="ml-1 text-[8px] text-amber-400/70">•</span>}
-                        </a>
+                        // Pozycje z dziećmi (Sztuka Perspektywy) rozwijają skrzydła
+                        // najazdem — bez tego kotwice SP·TeO i SP·BeReNike byłyby
+                        // w menu zadeklarowane, ale nieosiągalne.
+                        <div key={p.kotwica} className="group relative">
+                            <a href={`#${p.kotwica}`}
+                                className="block rounded-lg px-2.5 py-1.5 text-[10px] font-semibold uppercase tracking-widest text-slate-400 transition hover:bg-white/5 hover:text-fuchsia-200">
+                                {p.etykieta}
+                                {p.wymagaUslugi && <span className="ml-1 text-[8px] text-amber-400/70">•</span>}
+                            </a>
+                            {p.dzieci && (
+                                <div className="pointer-events-none absolute left-0 top-full z-50 hidden min-w-40 rounded-xl border border-white/10 bg-[#0a0812]/95 p-1 backdrop-blur-xl group-hover:block group-hover:pointer-events-auto">
+                                    {p.dzieci.map(d => (
+                                        <a key={d.kotwica} href={`#${d.kotwica}`}
+                                            className="block rounded-lg px-3 py-1.5 text-[10px] uppercase tracking-widest text-slate-400 transition hover:bg-white/5 hover:text-fuchsia-200">
+                                            {d.etykieta}
+                                        </a>
+                                    ))}
+                                </div>
+                            )}
+                        </div>
                     ))}
                 </nav>
 
@@ -206,6 +221,21 @@ function ProstaSekcja({ kotwica }: { kotwica: string }) {
     );
 }
 
+/** Skrzydło Sztuki Perspektywy — SP·TeO albo SP·BeReNike. */
+function SkrzydloPerspektywy({ kotwica }: { kotwica: string }) {
+    const s = SEKCJE.find(x => x.kotwica === kotwica);
+    if (!s) return null;
+    return (
+        <section id={s.kotwica} className="scroll-mt-20 rounded-2xl border border-white/10 bg-white/[0.03] p-6">
+            <h3 className="text-lg font-black tracking-tight text-fuchsia-200">{s.tytul}</h3>
+            <p className="mt-1 text-[11px] uppercase tracking-[0.2em] text-cyan-300/70">{s.wstep}</p>
+            {s.tresc && (
+                <p className="mt-4 whitespace-pre-line text-sm leading-relaxed text-slate-300">{s.tresc}</p>
+            )}
+        </section>
+    );
+}
+
 function Sklep() {
     return (
         <section id="sklep" className="mx-auto max-w-6xl scroll-mt-20 px-5 py-16">
@@ -291,6 +321,11 @@ export default function App() {
                 <Muzyka stan={stan} />
                 <ProstaSekcja kotwica="masja" />
                 <ProstaSekcja kotwica="perspektywa" />
+                {/* Dwa skrzydła spoglądania — własne kotwice, bo menu na nie wskazuje. */}
+                <div className="mx-auto grid max-w-6xl gap-4 px-5 sm:grid-cols-2">
+                    <SkrzydloPerspektywy kotwica="perspektywa-teo" />
+                    <SkrzydloPerspektywy kotwica="perspektywa-berenike" />
+                </div>
                 <Sklep />
                 <Uslugi />
                 <ProstaSekcja kotwica="kontakt" />
