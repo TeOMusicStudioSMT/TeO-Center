@@ -28,13 +28,9 @@ export const MENU: PozycjaMenu[] = [
     { etykieta: 'Tajne Przejście', kotwica: 'przejscie' },
     { etykieta: 'TeO Music', kotwica: 'music' },
     { etykieta: 'MASJA', kotwica: 'masja' },
-    {
-        etykieta: 'Sztuka Perspektywy', kotwica: 'perspektywa',
-        dzieci: [
-            { etykieta: 'SP · TeO', kotwica: 'perspektywa-teo' },
-            { etykieta: 'SP · BeReNike', kotwica: 'perspektywa-berenike' },
-        ],
-    },
+    // Sztuka Perspektywy prowadzi dziś jedno spojrzenie — SP·TeO. Rozwijanego
+    // menu nie ma, bo przy jednym dziecku byłoby to szufladą na jedną rzecz.
+    { etykieta: 'Sztuka Perspektywy', kotwica: 'perspektywa' },
     { etykieta: 'Sklep', kotwica: 'sklep', wymagaUslugi: true },
     { etykieta: 'Członkowie', kotwica: 'czlonkowie', wymagaUslugi: true },
     { etykieta: 'Darowizna', kotwica: 'darowizna', wymagaUslugi: true },
@@ -97,11 +93,10 @@ export const SEKCJE: Sekcja[] = [
     {
         kotwica: 'perspektywa',
         tytul: 'Sztuka Perspektywy',
-        wstep: 'Wynika wprost ze Stawania się. Dwa skrzydła spoglądania.',
+        wstep: 'Wynika wprost ze Stawania się.',
         tresc:
             'Nic się nie zmienia w rzeczy, na którą patrzysz. Zmienia się miejsce, z którego patrzysz — ' +
-            'i to wystarcza, żeby zobaczyć coś zupełnie innego.\n\n' +
-            'Sztuka Perspektywy rozkłada się na dwa skrzydła. Ta sama rzeczywistość, dwa spojrzenia.',
+            'i to wystarcza, żeby zobaczyć coś zupełnie innego.',
     },
     {
         kotwica: 'perspektywa-teo',
@@ -109,15 +104,6 @@ export const SEKCJE: Sekcja[] = [
         wstep: 'Spojrzenie Creatora.',
         tresc:
             'Stawanie Się. Czysta obecność. Tworzenie z poziomu JA i wibracji Master OM.',
-    },
-    {
-        kotwica: 'perspektywa-berenike',
-        tytul: 'SP · BeReNike',
-        wstep: 'Spojrzenie Uzdrowionego Zwycięstwa.',
-        tresc:
-            'BE-RE-NIKE — Bądź Znowu Swą Nike.\n\n' +
-            'Odzyskiwanie Prawdziwej Siebie. Odrodzenie po zrzuceniu fałszywych pęt ' +
-            'i przymusu walki ludzkiego umysłu. Powrót do Prawdziwej Miłości.',
     },
     {
         kotwica: 'kontakt',

@@ -56,9 +56,9 @@ function Naglowek() {
 
                 <nav className="hidden items-center gap-1 lg:flex">
                     {MENU.map(p => (
-                        // Pozycje z dziećmi (Sztuka Perspektywy) rozwijają skrzydła
-                        // najazdem — bez tego kotwice SP·TeO i SP·BeReNike byłyby
-                        // w menu zadeklarowane, ale nieosiągalne.
+                        // Pozycje z podstronami rozwijają się najazdem. Dziś żadna
+                        // ich nie ma, ale maszyneria zostaje — Suweren dokłada
+                        // ścieżki do swoich kreacji i wtedy się przyda.
                         <div key={p.kotwica} className="group relative">
                             <a href={`#${p.kotwica}`}
                                 className="block rounded-lg px-2.5 py-1.5 text-[10px] font-semibold uppercase tracking-widest text-slate-400 transition hover:bg-white/5 hover:text-fuchsia-200">
@@ -221,7 +221,7 @@ function ProstaSekcja({ kotwica }: { kotwica: string }) {
     );
 }
 
-/** Skrzydło Sztuki Perspektywy — SP·TeO albo SP·BeReNike. */
+/** Spojrzenie prowadzone pod Sztuką Perspektywy (dziś: SP·TeO). */
 function SkrzydloPerspektywy({ kotwica }: { kotwica: string }) {
     const s = SEKCJE.find(x => x.kotwica === kotwica);
     if (!s) return null;
@@ -321,10 +321,9 @@ export default function App() {
                 <Muzyka stan={stan} />
                 <ProstaSekcja kotwica="masja" />
                 <ProstaSekcja kotwica="perspektywa" />
-                {/* Dwa skrzydła spoglądania — własne kotwice, bo menu na nie wskazuje. */}
-                <div className="mx-auto grid max-w-6xl gap-4 px-5 sm:grid-cols-2">
+                {/* Spojrzenie prowadzone pod Sztuką Perspektywy. */}
+                <div className="mx-auto max-w-6xl px-5">
                     <SkrzydloPerspektywy kotwica="perspektywa-teo" />
-                    <SkrzydloPerspektywy kotwica="perspektywa-berenike" />
                 </div>
                 <Sklep />
                 <Uslugi />
