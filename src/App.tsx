@@ -13,6 +13,7 @@
 import { useEffect, useState } from 'react';
 import { MENU, MARKA, POWITANIE, SEKCJE, TEO_LIVE, SKLEP, SPOLECZNOSC, MOSTY } from './tresc';
 import { sprawdzKatedre, playlistaKatedry, type StanKatedry } from './lib/katedra';
+import Wystawa from './Wystawa';
 
 function Gwiazdy() {
     // Tło rysowane w CSS, nie obrazkiem — żeby strona ważyła tyle co nic
@@ -318,6 +319,8 @@ export default function App() {
             <main>
                 <Powitanie />
                 <MostyDoReszty stan={stan} />
+                {/* 🖼️ Wystawa: brama do otakos.wtf, produkcje filmowe, Suno, produkty. */}
+                <Wystawa />
                 <Muzyka stan={stan} />
                 <ProstaSekcja kotwica="masja" />
                 <ProstaSekcja kotwica="perspektywa" />

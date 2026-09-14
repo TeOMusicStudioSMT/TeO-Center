@@ -26,6 +26,8 @@ export interface PozycjaMenu {
 
 export const MENU: PozycjaMenu[] = [
     { etykieta: 'Tajne Przejście', kotwica: 'przejscie' },
+    // 🖼️ Wystawa Katedry (2026-09-14): filmy, Suno, produkty — treść z public/wystawa.json.
+    { etykieta: 'Filmy', kotwica: 'filmy' },
     { etykieta: 'TeO Music', kotwica: 'music' },
     { etykieta: 'MASJA', kotwica: 'masja' },
     // Sztuka Perspektywy prowadzi dziś jedno spojrzenie — SP·TeO. Rozwijanego

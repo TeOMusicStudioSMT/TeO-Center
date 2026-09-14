@@ -1,0 +1,347 @@
+{
+  "opublikowano": "2026-09-14T21:28:29.868Z",
+  "filmy": [
+    {
+      "id": "film-02914f4164",
+      "rodzaj": "odcinek",
+      "projekt": "rozpad-materii",
+      "tytul": "rozpad-materii — Gwałtowne Rozpadu",
+      "opis": "Wchłonięcie staje się gwałtowne, jak pęknięcie szkła. Światło zmienia się w ostre, szkarłatne i jaskrawo-niebieskie smugi, które atakują materię. Ciało Sama rozpada się na drobne, migoczące cząstki, a granice między nim a otoczeniem znikanie.",
+      "kiedy": "2026-09-14T17:37:37.939Z",
+      "sekundy": 97,
+      "muzyka": false,
+      "plakat": "/media/wystawa/film-02914f4164.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-02914f4164"
+    },
+    {
+      "id": "film-733d789b98",
+      "rodzaj": "odcinek",
+      "projekt": "rozpad-materii",
+      "tytul": "rozpad-materii — Eteryczne Wchłonięcie",
+      "opis": "Materiał wokół Sama zaczyna wchłaniać światło i cienie, zamieniając je w płynne, pulsujące formy. Cienie rozmywają się, a obiekty tracą twardą definicję, stając się niestabilne, jakby były utkane z gorącej, rozrzedzonej pary.",
+      "kiedy": "2026-09-14T11:47:00.888Z",
+      "sekundy": 97,
+      "muzyka": false,
+      "plakat": "/media/wystawa/film-733d789b98.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-733d789b98"
+    },
+    {
+      "id": "film-a392f02d50",
+      "rodzaj": "odcinek",
+      "projekt": "rozpad-materii",
+      "tytul": "rozpad-materii — Rozpad Percepcji",
+      "opis": "Rzeczywistość wokół Sama zaczyna się rozmywać. Geometryczne kształty i ostre kontury topnieją w aksamitnej, szarej mglistości. Odległości i granice między bytem a niebytem tracą znaczenie, a percepcja przestrzeni staje się niestabilna.",
+      "kiedy": "2026-09-14T06:27:44.150Z",
+      "sekundy": 97,
+      "muzyka": false,
+      "plakat": "/media/wystawa/film-a392f02d50.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-a392f02d50"
+    },
+    {
+      "id": "film-884f9fd54b",
+      "rodzaj": "odcinek",
+      "projekt": "rozpad-materii",
+      "tytul": "rozpad-materii — Gęstość Ciszy",
+      "opis": "Powietrze wokół Sama jest gęste i nieruchome, przesycone zapachem sterylnej ciszy. Światło jest blade, rozproszone i jednorodne, tworząc wrażenie wiecznego zmierzchu. Sam obserwuje, jak linie i kształty wokół niego rozpływają się w nieskończonej ciszy.",
+      "kiedy": "2026-09-14T02:23:47.593Z",
+      "sekundy": 97,
+      "muzyka": false,
+      "plakat": "/media/wystawa/film-884f9fd54b.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-884f9fd54b"
+    },
+    {
+      "id": "film-065399f87a",
+      "rodzaj": "odcinek",
+      "projekt": "rozpad-materii",
+      "tytul": "rozpad-materii — Izolacja i Oczekiwanie",
+      "opis": "Sam siedzi w sterylnym, ciemnym klubie otoczony gęstą mgłą. Wizualizacje sugerują wewnętrzną izolację i oczekiwanie. mgła jest płynna i organiczna w rozpadzie.",
+      "kiedy": "2026-09-13T21:54:33.629Z",
+      "sekundy": 97,
+      "muzyka": false,
+      "plakat": "/media/wystawa/film-065399f87a.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-065399f87a"
+    },
+    {
+      "id": "film-c203f95487",
+      "rodzaj": "odcinek",
+      "projekt": "rozpad-materii",
+      "tytul": "rozpad-materii — Narastające Drżenie",
+      "opis": "Wykorzystanie pauzy do wprowadzenia subtelnego, narastającego napięcia, realizowanego poprzez niskie, powolne wibracje, które sugerują nieuchronny rozpad materii.",
+      "kiedy": "2026-09-13T16:39:15.819Z",
+      "sekundy": 97,
+      "muzyka": false,
+      "plakat": "/media/wystawa/film-c203f95487.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-c203f95487"
+    },
+    {
+      "id": "film-af9131a98b",
+      "rodzaj": "odcinek",
+      "projekt": "rozpad-materii",
+      "tytul": "rozpad-materii — Zimna Kontemplacja",
+      "opis": "Wprowadzenie pauzy w punkcie maksymalnego napięcia, wykorzystująca ciszę do stworzenia chwilowej, zimnej kontemplacji niestabilności, budując oczekiwanie przed kolejnym rozpadem materii.",
+      "kiedy": "2026-09-13T11:19:51.151Z",
+      "sekundy": 98,
+      "muzyka": false,
+      "plakat": "/media/wystawa/film-af9131a98b.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-af9131a98b"
+    },
+    {
+      "id": "film-e789d40fa5",
+      "rodzaj": "film",
+      "projekt": "TeO Story",
+      "tytul": "TeO Story_SOLLET_E1S1",
+      "opis": "",
+      "kiedy": "2026-09-11T00:19:21.094Z",
+      "sekundy": 983,
+      "muzyka": null,
+      "plakat": "/media/wystawa/film-e789d40fa5.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-e789d40fa5"
+    },
+    {
+      "id": "film-d7deb468ac",
+      "rodzaj": "film",
+      "projekt": "TeO Story",
+      "tytul": "TeO Story -SOLLET",
+      "opis": "### TeO Story · odcinek pierwszy\n\n**11 min 09 s · 704×480 · 24 kl/s · muzyka: Joanna**\n\n---\n\n## Jednym zdaniem\n\nŚwietlista Solita opuszcza pustynną rezydencję, bo jej wewnętrzny cień chce klubu — a w świecie, w którym napięcie alchemii materializuje się jako zniekształcenia rzeczywistości, każda taka podróż jest przyciąganiem.\n\n## O czym to jest\n\nSolita jest z natury Świetlista. Żyje w rezydencji na pustyni — przeładowana światłem, przeładowana sobą. Zmiana otoczenia nie jest ucieczką; jest symbolem tego, co w niej ciemniejsze i co domaga się głosu.\n\nPodróż prowadzi do Klubu Fioletowy Pelikan.",
+      "kiedy": "2026-09-10T21:20:56.290Z",
+      "sekundy": 669,
+      "muzyka": null,
+      "plakat": "/media/wystawa/film-d7deb468ac.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-d7deb468ac"
+    }
+  ],
+  "utwory": [
+    {
+      "id": "utwor-2ef2006f39",
+      "tytul": "melodic techno - MiniMax FP16 1789257030262",
+      "zrodlo": "Katedra",
+      "kiedy": "2026-09-12T23:50:30.276Z",
+      "strumien": "/wystawa/plik/utwor-2ef2006f39"
+    },
+    {
+      "id": "utwor-f86fa38e8d",
+      "tytul": "joann1 przedluz mtysib8t",
+      "zrodlo": "Warsztat",
+      "kiedy": "2026-09-12T19:40:32.845Z",
+      "strumien": "/wystawa/plik/utwor-f86fa38e8d"
+    },
+    {
+      "id": "utwor-4717e7ae80",
+      "tytul": "Joann1",
+      "zrodlo": "Katedra",
+      "kiedy": "2026-09-12T18:55:59.546Z",
+      "strumien": "/wystawa/plik/utwor-4717e7ae80"
+    },
+    {
+      "id": "utwor-44eb1814ce",
+      "tytul": "melancholic amb - MiniMax FP16 1789239336314",
+      "zrodlo": "Katedra",
+      "kiedy": "2026-09-12T18:55:36.320Z",
+      "strumien": "/wystawa/plik/utwor-44eb1814ce"
+    },
+    {
+      "id": "utwor-98942cba04",
+      "tytul": "Bitt Eleve11",
+      "zrodlo": "Katedra",
+      "kiedy": "2026-09-12T13:46:10.461Z",
+      "strumien": "/wystawa/plik/utwor-98942cba04"
+    },
+    {
+      "id": "utwor-5d0614e39f",
+      "tytul": "Bitt Tr3 A",
+      "zrodlo": "Katedra",
+      "kiedy": "2026-09-11T22:52:59.001Z",
+      "strumien": "/wystawa/plik/utwor-5d0614e39f"
+    },
+    {
+      "id": "utwor-b9d634a55a",
+      "tytul": "Bitt Tw2 A",
+      "zrodlo": "Katedra",
+      "kiedy": "2026-09-11T22:48:47.245Z",
+      "strumien": "/wystawa/plik/utwor-b9d634a55a"
+    },
+    {
+      "id": "utwor-288eac17d2",
+      "tytul": "Bitt On1 A",
+      "zrodlo": "Katedra",
+      "kiedy": "2026-09-11T22:35:18.019Z",
+      "strumien": "/wystawa/plik/utwor-288eac17d2"
+    },
+    {
+      "id": "utwor-b7b692dd62",
+      "tytul": "Bitt E8",
+      "zrodlo": "Katedra",
+      "kiedy": "2026-09-11T20:20:10.218Z",
+      "strumien": "/wystawa/plik/utwor-b7b692dd62"
+    },
+    {
+      "id": "utwor-d2686d4c4d",
+      "tytul": "Bitt Eit8aa",
+      "zrodlo": "Katedra",
+      "kiedy": "2026-09-11T20:18:52.612Z",
+      "strumien": "/wystawa/plik/utwor-d2686d4c4d"
+    },
+    {
+      "id": "utwor-761035edd7",
+      "tytul": "Bitt Eit8a",
+      "zrodlo": "Katedra",
+      "kiedy": "2026-09-11T20:14:49.219Z",
+      "strumien": "/wystawa/plik/utwor-761035edd7"
+    },
+    {
+      "id": "utwor-5cb3cc8f19",
+      "tytul": "Bitt Te10",
+      "zrodlo": "Katedra",
+      "kiedy": "2026-09-11T20:06:33.963Z",
+      "strumien": "/wystawa/plik/utwor-5cb3cc8f19"
+    }
+  ],
+  "suno": [],
+  "produkty": [
+    {
+      "id": "chip-1789232520731-47ea8b64",
+      "rodzaj": "chip",
+      "dzial": "TeO Lab · Chipy",
+      "tytul": "Taalas HC1 Architecture",
+      "opis": "9.07 GB · 363 GB/s · 1× HBM3",
+      "kiedy": "2026-09-12T17:02:00.731Z",
+      "obraz": "/media/wystawa/chip-1789232520731-47ea8b64.jpg"
+    },
+    {
+      "id": "chip-1789223809410-2b062f92",
+      "rodzaj": "chip",
+      "dzial": "TeO Lab · Chipy",
+      "tytul": "Układ 8B",
+      "opis": "9.07 GB · 363 GB/s · 1× HBM3",
+      "kiedy": "2026-09-12T14:36:49.410Z",
+      "obraz": "/media/wystawa/chip-1789223809410-2b062f92.jpg"
+    },
+    {
+      "id": "chip-1789221209839-61f553ae",
+      "rodzaj": "chip",
+      "dzial": "TeO Lab · Chipy",
+      "tytul": "Krzem-70B",
+      "opis": "80.74 GB · 2422 GB/s · 4× HBM3",
+      "kiedy": "2026-09-12T13:53:29.839Z",
+      "obraz": "/media/wystawa/chip-1789221209839-61f553ae.jpg"
+    },
+    {
+      "id": "moda-557957afd1",
+      "rodzaj": "kreacja",
+      "dzial": "TeO Fashion Studio",
+      "tytul": "kadr_00215_.png",
+      "opis": "high fashion garment photography, avant-garde Solita archetype, crystalline rigid structure with razor-thin emerald green laser fissures cutting through deep black void silk, sharp electric blue spatial anomalies bleeding into warm alchemic",
+      "kiedy": null,
+      "obraz": "/media/wystawa/moda-557957afd1.jpg"
+    },
+    {
+      "id": "moda-1e2be09422",
+      "rodzaj": "kreacja",
+      "dzial": "TeO Fashion Studio",
+      "tytul": "kadr_00214_.png",
+      "opis": "high fashion garment photography, avant-garde Solita archetype, crystalline rigid structure with razor-thin emerald green laser fissures cutting through deep black void silk, sharp electric blue spatial anomalies bleeding into warm alchemic",
+      "kiedy": null,
+      "obraz": "/media/wystawa/moda-1e2be09422.jpg"
+    },
+    {
+      "id": "moda-ebf44d7262",
+      "rodzaj": "kreacja",
+      "dzial": "TeO Fashion Studio",
+      "tytul": "kadr_00213_.png",
+      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF26 (Molita Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Ergonomic catsuit with ",
+      "kiedy": null,
+      "obraz": "/media/wystawa/moda-ebf44d7262.jpg"
+    },
+    {
+      "id": "moda-14f5e60b42",
+      "rodzaj": "kreacja",
+      "dzial": "TeO Fashion Studio",
+      "tytul": "kadr_00212_.png",
+      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF16 (Solita Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Asymmetric tectonic col",
+      "kiedy": null,
+      "obraz": "/media/wystawa/moda-14f5e60b42.jpg"
+    },
+    {
+      "id": "moda-15108549b2",
+      "rodzaj": "kreacja",
+      "dzial": "TeO Fashion Studio",
+      "tytul": "kadr_00211_.png",
+      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF15 (Hybrid Sovereign Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Hyperbolic fl",
+      "kiedy": null,
+      "obraz": "/media/wystawa/moda-15108549b2.jpg"
+    },
+    {
+      "id": "moda-bae6bbce72",
+      "rodzaj": "kreacja",
+      "dzial": "TeO Fashion Studio",
+      "tytul": "kadr_00210_.png",
+      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF07 (Solita Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Hyper-articulated skele",
+      "kiedy": null,
+      "obraz": "/media/wystawa/moda-bae6bbce72.jpg"
+    },
+    {
+      "id": "moda-012480ee6c",
+      "rodzaj": "kreacja",
+      "dzial": "TeO Fashion Studio",
+      "tytul": "kadr_00209_.png",
+      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF12 (Hybrid Sovereign Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Spiral-draped",
+      "kiedy": null,
+      "obraz": "/media/wystawa/moda-012480ee6c.jpg"
+    },
+    {
+      "id": "moda-adf6deedc1",
+      "rodzaj": "kreacja",
+      "dzial": "TeO Fashion Studio",
+      "tytul": "kadr_00205_.png",
+      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF25 (Solita Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Concentric circular tie",
+      "kiedy": null,
+      "obraz": "/media/wystawa/moda-adf6deedc1.jpg"
+    },
+    {
+      "id": "moda-21903db80b",
+      "rodzaj": "kreacja",
+      "dzial": "TeO Fashion Studio",
+      "tytul": "kadr_00204_.png",
+      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF31 (Solita Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Asymmetric tectonic col",
+      "kiedy": null,
+      "obraz": "/media/wystawa/moda-21903db80b.jpg"
+    },
+    {
+      "id": "moda-ddcc82d324",
+      "rodzaj": "kreacja",
+      "dzial": "TeO Fashion Studio",
+      "tytul": "kadr_00203_.png",
+      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF30 (Hybrid Sovereign Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Hyperbolic fl",
+      "kiedy": null,
+      "obraz": "/media/wystawa/moda-ddcc82d324.jpg"
+    },
+    {
+      "id": "moda-7d2c5f6bb2",
+      "rodzaj": "kreacja",
+      "dzial": "TeO Fashion Studio",
+      "tytul": "kadr_00202_.png",
+      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF11 (Molita Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Ergonomic catsuit with ",
+      "kiedy": null,
+      "obraz": "/media/wystawa/moda-7d2c5f6bb2.jpg"
+    },
+    {
+      "id": "moda-848611501d",
+      "rodzaj": "kreacja",
+      "dzial": "TeO Fashion Studio",
+      "tytul": "kadr_00201_.png",
+      "opis": "haute couture lookbook: vantablack carbon micro-velvet column sheath, origami-creased rigid panels, electroluminescent neon green filament sutures along the fracture seams, mirror-finish chromium titanium edges, severed shoulder mantle floa",
+      "kiedy": null,
+      "obraz": "/media/wystawa/moda-848611501d.jpg"
+    }
+  ],
+  "uwaga": "Filmy z `youtube` grają wszędzie; bez niego tylko u gospodarza (Most). Utwory z dysku tylko u gospodarza; Suno gra z ramki Suno."
+}
