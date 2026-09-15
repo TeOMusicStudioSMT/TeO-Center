@@ -15,7 +15,8 @@ const MOST = 'http://127.0.0.1:3001';
 
 export interface Film { id: string; rodzaj: 'odcinek' | 'film'; projekt: string; tytul: string; opis: string; kiedy: string; sekundy?: number | null; muzyka?: boolean | null; plakat: string | null; youtube: string | null; strumien: string }
 export interface Utwor { id: string; tytul: string; zrodlo: string; kiedy: string; strumien: string }
-export interface Suno { id: string; url: string; tytul: string; opis: string; embed: string; dodano: string }
+export interface SunoUtwor { id: string; tytul: string; sekundy: number | null; okladka: string | null; embed: string; url: string }
+export interface Suno { typ?: 'utwor' | 'playlista'; id: string; url: string; tytul: string; opis: string; embed?: string; dodano: string; sekundy?: number | null; okladka?: string | null; autor?: string; utwory?: SunoUtwor[] }
 export interface Produkt { id: string; rodzaj: string; dzial: string; tytul: string; opis: string; kiedy: string | null; obraz: string | null }
 export interface Katalog { opublikowano: string | null; filmy: Film[]; utwory: Utwor[]; suno: Suno[]; produkty: Produkt[]; zywy: boolean }
 

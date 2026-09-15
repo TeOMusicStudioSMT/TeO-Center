@@ -14,7 +14,7 @@
  *   · utwór z dysku Katedry → tylko u gospodarza
  */
 import { useEffect, useState } from 'react';
-import { katalogStatyczny, katalogZywy, czas, data, type Katalog, type Film } from './lib/wystawa';
+import { katalogStatyczny, katalogZywy, czas, data, type Katalog, type Film, type Suno } from './lib/wystawa';
 
 function KartaFilmu({ f, zywy }: { f: Film; zywy: boolean }) {
     const [gra, setGra] = useState(false);
@@ -47,6 +47,50 @@ function KartaFilmu({ f, zywy }: { f: Film; zywy: boolean }) {
                 <div className="mt-2 text-[10px] text-slate-600">{data(f.kiedy)}</div>
             </div>
         </article>
+    );
+}
+
+/**
+ * Playlista Suno: Suno nie ma ramki dla playlist, więc most ściąga listę utworów
+ * z publicznego API Suno, a tu jest JEDEN odtwarzacz (ramka wybranego utworu)
+ * + lista z okładkami. Klik = zmiana utworu w ramce. Autoodtwarzanie kolejnego
+ * nie jest możliwe z zewnątrz ramki Suno — mówimy to wprost.
+ */
+function Playlista({ s }: { s: Suno }) {
+    const utwory = s.utwory ?? [];
+    const [i, setI] = useState(0);
+    const u = utwory[i] ?? utwory[0];
+    const razem = utwory.reduce((a, x) => a + (x.sekundy ?? 0), 0);
+    return (
+        <div className="overflow-hidden rounded-2xl border border-white/10 bg-white/[0.03]">
+            <div className="grid gap-0 md:grid-cols-[1fr_340px]">
+                <div className="p-4">
+                    <div className="flex items-center gap-3">
+                        {s.okladka && <img src={s.okladka} alt="" className="h-14 w-14 rounded-lg object-cover" />}
+                        <div>
+                            <div className="text-[9px] uppercase tracking-[0.25em] text-fuchsia-300/70">playlista Suno{s.autor ? ` · ${s.autor}` : ''}</div>
+                            <div className="text-lg font-bold text-slate-100">{s.tytul}</div>
+                            <div className="text-[10px] text-slate-500">{utwory.length} utworów{razem ? ` · ${czas(razem)}` : ''}</div>
+                        </div>
+                    </div>
+                    {s.opis && <p className="mt-2 text-[11px] text-slate-400">{s.opis}</p>}
+                    <iframe key={u?.id} src={u?.embed} title={u?.tytul || s.id} allow="autoplay; encrypted-media" className="mt-3 h-[240px] w-full rounded-xl border-0 bg-black" />
+                    <a href={s.url} target="_blank" rel="noreferrer" className="mt-2 inline-block text-[10px] text-slate-500 hover:text-fuchsia-200">otwórz playlistę w Suno →</a>
+                </div>
+                <ol className="max-h-[420px] divide-y divide-white/5 overflow-y-auto border-t border-white/10 md:border-l md:border-t-0">
+                    {utwory.map((x, n) => (
+                        <li key={x.id}>
+                            <button onClick={() => setI(n)} className={`flex w-full items-center gap-3 px-3 py-2 text-left transition hover:bg-white/[0.05] ${n === i ? 'bg-fuchsia-500/10' : ''}`}>
+                                <span className="w-5 text-right text-[10px] text-slate-600">{n + 1}</span>
+                                {x.okladka ? <img src={x.okladka} alt="" loading="lazy" className="h-9 w-9 rounded object-cover" /> : <span className="h-9 w-9 rounded bg-slate-800" />}
+                                <span className={`flex-1 truncate text-[12px] ${n === i ? 'text-fuchsia-100' : 'text-slate-200'}`}>{x.tytul}</span>
+                                <span className="text-[10px] text-slate-600">{czas(x.sekundy)}</span>
+                            </button>
+                        </li>
+                    ))}
+                </ol>
+            </div>
+        </div>
     );
 }
 
@@ -105,20 +149,25 @@ export default function Wystawa() {
                 </div>
             </section>
 
-            {/* ── Suno ── */}
+            {/* ── Suno: playlisty (lista utworów + jeden odtwarzacz) i pojedyncze utwory ── */}
             {suno.length > 0 && (
                 <section id="suno" className="mx-auto max-w-6xl scroll-mt-20 px-5 py-16">
                     <h2 className="text-2xl font-black tracking-tight text-white">Utwory · Suno</h2>
                     <p className="mt-2 max-w-2xl text-sm leading-relaxed text-slate-400">Każdy gra tutaj, z ramki Suno — bez wychodzenia ze strony.</p>
-                    <div className="mt-8 grid gap-4 sm:grid-cols-2">
-                        {suno.map((s) => (
-                            <div key={s.id} className="rounded-2xl border border-white/10 bg-white/[0.03] p-4">
-                                {(s.tytul || s.opis) && <div className="mb-2"><div className="text-sm font-bold text-slate-100">{s.tytul}</div>{s.opis && <p className="text-[11px] text-slate-400">{s.opis}</p>}</div>}
-                                <iframe src={s.embed} title={s.tytul || s.id} loading="lazy" allow="autoplay; encrypted-media" className="h-[240px] w-full rounded-xl border-0 bg-black" />
-                                <a href={s.url} target="_blank" rel="noreferrer" className="mt-2 inline-block text-[10px] text-slate-500 hover:text-fuchsia-200">otwórz w Suno →</a>
-                            </div>
-                        ))}
+                    <div className="mt-8 space-y-6">
+                        {suno.filter((s) => s.typ === 'playlista' && s.utwory?.length).map((s) => <Playlista key={s.id} s={s} />)}
                     </div>
+                    {suno.some((s) => s.typ !== 'playlista') && (
+                        <div className="mt-8 grid gap-4 sm:grid-cols-2">
+                            {suno.filter((s) => s.typ !== 'playlista').map((s) => (
+                                <div key={s.id} className="rounded-2xl border border-white/10 bg-white/[0.03] p-4">
+                                    {(s.tytul || s.opis) && <div className="mb-2"><div className="text-sm font-bold text-slate-100">{s.tytul}</div>{s.opis && <p className="text-[11px] text-slate-400">{s.opis}</p>}</div>}
+                                    <iframe src={s.embed ?? `https://suno.com/embed/${s.id}`} title={s.tytul || s.id} loading="lazy" allow="autoplay; encrypted-media" className="h-[240px] w-full rounded-xl border-0 bg-black" />
+                                    <a href={s.url} target="_blank" rel="noreferrer" className="mt-2 inline-block text-[10px] text-slate-500 hover:text-fuchsia-200">otwórz w Suno →</a>
+                                </div>
+                            ))}
+                        </div>
+                    )}
                 </section>
             )}
 

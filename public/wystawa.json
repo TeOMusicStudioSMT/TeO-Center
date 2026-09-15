@@ -1,6 +1,123 @@
 {
-  "opublikowano": "2026-09-14T21:28:29.868Z",
+  "opublikowano": "2026-09-15T12:22:21.985Z",
   "filmy": [
+    {
+      "id": "film-275e17f0bc",
+      "rodzaj": "odcinek",
+      "projekt": "sollet",
+      "tytul": "sollet — Granica i Ostateczna Alchemia",
+      "opis": "Podsumowanie wizualizacji napięcia, ukazujące fizyczne, widoczne anomalie w otoczeniu, które zmuszają postacie do ciągłej korekty swoich interakcji, demonstrując fizyczne wyzwanie alchemii.",
+      "kiedy": "2026-09-15T07:38:06.028Z",
+      "sekundy": 68,
+      "muzyka": false,
+      "plakat": "/media/wystawa/film-275e17f0bc.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-275e17f0bc"
+    },
+    {
+      "id": "film-2850c2ffb5",
+      "rodzaj": "odcinek",
+      "projekt": "sollet",
+      "tytul": "sollet — Zniekształcenie Perspektywy",
+      "opis": "Wprowadzenie niestabilnych perspektyw i falujących cieni jako forma manifestacji napięcia, pojawiające się tylko w momentach głębokiej symbiozy Solity i Molity.",
+      "kiedy": "2026-09-15T07:38:04.344Z",
+      "sekundy": 73,
+      "muzyka": false,
+      "plakat": "/media/wystawa/film-2850c2ffb5.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-2850c2ffb5"
+    },
+    {
+      "id": "film-4e2dbe4f81",
+      "rodzaj": "odcinek",
+      "projekt": "sollet",
+      "tytul": "sollet — Aktywna Korekta",
+      "opis": "Scena, w której Solita i Molita muszą aktywnie manipulować zniekształceniami fizyki w celu utrzymania stabilności swoich interakcji, co staje się fizycznym wyzwaniem.",
+      "kiedy": "2026-09-15T07:38:02.563Z",
+      "sekundy": 73,
+      "muzyka": false,
+      "plakat": "/media/wystawa/film-4e2dbe4f81.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-4e2dbe4f81"
+    },
+    {
+      "id": "film-7cebc8077d",
+      "rodzaj": "odcinek",
+      "projekt": "sollet",
+      "tytul": "sollet — Glitch w Klubie Fioletowa Pelikan",
+      "opis": "Testowanie zniekształceń fizyki w innym środowisku, w Klubie Fioletowej Pelikan, aby zobaczyć, jak niestabilność wpływa na percepcję innych mieszkańców Sunctu.",
+      "kiedy": "2026-09-15T07:38:00.909Z",
+      "sekundy": 73,
+      "muzyka": false,
+      "plakat": "/media/wystawa/film-7cebc8077d.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-7cebc8077d"
+    },
+    {
+      "id": "film-748e4bbd18",
+      "rodzaj": "odcinek",
+      "projekt": "sollet",
+      "tytul": "sollet — Ciche Tło Alchemii",
+      "opis": "Wykorzystanie subtelnych, niepokojących tła – cichych odzwierciedleń wewnętrznej niestabilności Solity i Molity, postrzegane przez widza jako aura miejsca.",
+      "kiedy": "2026-09-15T07:37:59.143Z",
+      "sekundy": 90,
+      "muzyka": false,
+      "plakat": "/media/wystawa/film-748e4bbd18.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-748e4bbd18"
+    },
+    {
+      "id": "film-7296233706",
+      "rodzaj": "odcinek",
+      "projekt": "sollet",
+      "tytul": "sollet — Kontrast Światła Pustyni",
+      "opis": "Manifestacja napięcia poprzez kontrast światła: ciepłe, złote światło Pustyni staje się ostre i bolesne w miejscach największej energetycznej wymiany między Solitą a Molitą.",
+      "kiedy": "2026-09-15T07:37:53.026Z",
+      "sekundy": 105,
+      "muzyka": false,
+      "plakat": "/media/wystawa/film-7296233706.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-7296233706"
+    },
+    {
+      "id": "film-252407567f",
+      "rodzaj": "odcinek",
+      "projekt": "rozpad-materii",
+      "tytul": "rozpad-materii — Narastające Drżenie",
+      "opis": "Wykorzystanie pauzy do wprowadzenia subtelnego, narastającego napięcia, realizowanego poprzez niskie, powolne wibracje, które sugerują nieuchronny rozpad materii.",
+      "kiedy": "2026-09-15T00:25:17.437Z",
+      "sekundy": 97,
+      "muzyka": false,
+      "plakat": "/media/wystawa/film-252407567f.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-252407567f"
+    },
+    {
+      "id": "film-6fb3f1e29a",
+      "rodzaj": "film",
+      "projekt": "TeO Story",
+      "tytul": "TeO Move_",
+      "opis": "",
+      "kiedy": "2026-09-15T00:11:27.529Z",
+      "sekundy": 856,
+      "muzyka": null,
+      "plakat": "/media/wystawa/film-6fb3f1e29a.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-6fb3f1e29a"
+    },
+    {
+      "id": "film-1280872fee",
+      "rodzaj": "odcinek",
+      "projekt": "rozpad-materii",
+      "tytul": "rozpad-materii — Absolutna Cisza",
+      "opis": "Cały klub pogrąża się w absolutnej, ciężkiej ciszy. Ciemność jest gęsta, a powietrze wibruje niewidzialną, pulsującą energią. To jest moment przed eksplozją, absolutna pauza, w której napięcie zbiera się do punktu krytycznego.",
+      "kiedy": "2026-09-14T23:27:54.336Z",
+      "sekundy": 97,
+      "muzyka": false,
+      "plakat": "/media/wystawa/film-1280872fee.jpg",
+      "youtube": null,
+      "strumien": "/wystawa/plik/film-1280872fee"
+    },
     {
       "id": "film-02914f4164",
       "rodzaj": "odcinek",
@@ -15,7 +132,7 @@
       "strumien": "/wystawa/plik/film-02914f4164"
     },
     {
-      "id": "film-733d789b98",
+      "id": "film-5e749b1498",
       "rodzaj": "odcinek",
       "projekt": "rozpad-materii",
       "tytul": "rozpad-materii — Eteryczne Wchłonięcie",
@@ -23,12 +140,12 @@
       "kiedy": "2026-09-14T11:47:00.888Z",
       "sekundy": 97,
       "muzyka": false,
-      "plakat": "/media/wystawa/film-733d789b98.jpg",
+      "plakat": "/media/wystawa/film-5e749b1498.jpg",
       "youtube": null,
-      "strumien": "/wystawa/plik/film-733d789b98"
+      "strumien": "/wystawa/plik/film-5e749b1498"
     },
     {
-      "id": "film-a392f02d50",
+      "id": "film-e41e751050",
       "rodzaj": "odcinek",
       "projekt": "rozpad-materii",
       "tytul": "rozpad-materii — Rozpad Percepcji",
@@ -36,87 +153,9 @@
       "kiedy": "2026-09-14T06:27:44.150Z",
       "sekundy": 97,
       "muzyka": false,
-      "plakat": "/media/wystawa/film-a392f02d50.jpg",
+      "plakat": "/media/wystawa/film-e41e751050.jpg",
       "youtube": null,
-      "strumien": "/wystawa/plik/film-a392f02d50"
-    },
-    {
-      "id": "film-884f9fd54b",
-      "rodzaj": "odcinek",
-      "projekt": "rozpad-materii",
-      "tytul": "rozpad-materii — Gęstość Ciszy",
-      "opis": "Powietrze wokół Sama jest gęste i nieruchome, przesycone zapachem sterylnej ciszy. Światło jest blade, rozproszone i jednorodne, tworząc wrażenie wiecznego zmierzchu. Sam obserwuje, jak linie i kształty wokół niego rozpływają się w nieskończonej ciszy.",
-      "kiedy": "2026-09-14T02:23:47.593Z",
-      "sekundy": 97,
-      "muzyka": false,
-      "plakat": "/media/wystawa/film-884f9fd54b.jpg",
-      "youtube": null,
-      "strumien": "/wystawa/plik/film-884f9fd54b"
-    },
-    {
-      "id": "film-065399f87a",
-      "rodzaj": "odcinek",
-      "projekt": "rozpad-materii",
-      "tytul": "rozpad-materii — Izolacja i Oczekiwanie",
-      "opis": "Sam siedzi w sterylnym, ciemnym klubie otoczony gęstą mgłą. Wizualizacje sugerują wewnętrzną izolację i oczekiwanie. mgła jest płynna i organiczna w rozpadzie.",
-      "kiedy": "2026-09-13T21:54:33.629Z",
-      "sekundy": 97,
-      "muzyka": false,
-      "plakat": "/media/wystawa/film-065399f87a.jpg",
-      "youtube": null,
-      "strumien": "/wystawa/plik/film-065399f87a"
-    },
-    {
-      "id": "film-c203f95487",
-      "rodzaj": "odcinek",
-      "projekt": "rozpad-materii",
-      "tytul": "rozpad-materii — Narastające Drżenie",
-      "opis": "Wykorzystanie pauzy do wprowadzenia subtelnego, narastającego napięcia, realizowanego poprzez niskie, powolne wibracje, które sugerują nieuchronny rozpad materii.",
-      "kiedy": "2026-09-13T16:39:15.819Z",
-      "sekundy": 97,
-      "muzyka": false,
-      "plakat": "/media/wystawa/film-c203f95487.jpg",
-      "youtube": null,
-      "strumien": "/wystawa/plik/film-c203f95487"
-    },
-    {
-      "id": "film-af9131a98b",
-      "rodzaj": "odcinek",
-      "projekt": "rozpad-materii",
-      "tytul": "rozpad-materii — Zimna Kontemplacja",
-      "opis": "Wprowadzenie pauzy w punkcie maksymalnego napięcia, wykorzystująca ciszę do stworzenia chwilowej, zimnej kontemplacji niestabilności, budując oczekiwanie przed kolejnym rozpadem materii.",
-      "kiedy": "2026-09-13T11:19:51.151Z",
-      "sekundy": 98,
-      "muzyka": false,
-      "plakat": "/media/wystawa/film-af9131a98b.jpg",
-      "youtube": null,
-      "strumien": "/wystawa/plik/film-af9131a98b"
-    },
-    {
-      "id": "film-e789d40fa5",
-      "rodzaj": "film",
-      "projekt": "TeO Story",
-      "tytul": "TeO Story_SOLLET_E1S1",
-      "opis": "",
-      "kiedy": "2026-09-11T00:19:21.094Z",
-      "sekundy": 983,
-      "muzyka": null,
-      "plakat": "/media/wystawa/film-e789d40fa5.jpg",
-      "youtube": null,
-      "strumien": "/wystawa/plik/film-e789d40fa5"
-    },
-    {
-      "id": "film-d7deb468ac",
-      "rodzaj": "film",
-      "projekt": "TeO Story",
-      "tytul": "TeO Story -SOLLET",
-      "opis": "### TeO Story · odcinek pierwszy\n\n**11 min 09 s · 704×480 · 24 kl/s · muzyka: Joanna**\n\n---\n\n## Jednym zdaniem\n\nŚwietlista Solita opuszcza pustynną rezydencję, bo jej wewnętrzny cień chce klubu — a w świecie, w którym napięcie alchemii materializuje się jako zniekształcenia rzeczywistości, każda taka podróż jest przyciąganiem.\n\n## O czym to jest\n\nSolita jest z natury Świetlista. Żyje w rezydencji na pustyni — przeładowana światłem, przeładowana sobą. Zmiana otoczenia nie jest ucieczką; jest symbolem tego, co w niej ciemniejsze i co domaga się głosu.\n\nPodróż prowadzi do Klubu Fioletowy Pelikan.",
-      "kiedy": "2026-09-10T21:20:56.290Z",
-      "sekundy": 669,
-      "muzyka": null,
-      "plakat": "/media/wystawa/film-d7deb468ac.jpg",
-      "youtube": null,
-      "strumien": "/wystawa/plik/film-d7deb468ac"
+      "strumien": "/wystawa/plik/film-e41e751050"
     }
   ],
   "utwory": [
@@ -205,7 +244,117 @@
       "strumien": "/wystawa/plik/utwor-5cb3cc8f19"
     }
   ],
-  "suno": [],
+  "suno": [
+    {
+      "typ": "utwor",
+      "id": "91cc0718-3118-46bb-971e-d6a9c5d0242d",
+      "url": "https://suno.com/s/mhRGHY5oZ5CiuUK9",
+      "tytul": "Track 01: The Solitary Canopy (A)",
+      "opis": "",
+      "sekundy": 194,
+      "okladka": "https://cdn2.suno.ai/image_1eadb771-7e7f-4809-a7e2-147be3e3f66a.jpeg",
+      "embed": "https://suno.com/embed/91cc0718-3118-46bb-971e-d6a9c5d0242d",
+      "dodano": "2026-09-15T12:22:21.232Z"
+    },
+    {
+      "typ": "utwor",
+      "id": "7dd7612f-c108-4840-8bda-7c7cd2e709de",
+      "url": "https://suno.com/s/Xj3kt9z19UrWhl2L",
+      "tytul": "Track 02: Veils of Morning Mist (A)",
+      "opis": "",
+      "sekundy": 217,
+      "okladka": "https://cdn2.suno.ai/image_76159e46-6099-43da-ade7-bea0a9e1d788.jpeg",
+      "embed": "https://suno.com/embed/7dd7612f-c108-4840-8bda-7c7cd2e709de",
+      "dodano": "2026-09-15T12:22:20.586Z"
+    },
+    {
+      "typ": "utwor",
+      "id": "7719dcd8-2e70-4369-b2ad-5707235389af",
+      "url": "https://suno.com/song/7719dcd8-2e70-4369-b2ad-5707235389af",
+      "tytul": "Joann Grand Sample",
+      "opis": "",
+      "sekundy": 53,
+      "okladka": "https://cdn2.suno.ai/image_7719dcd8-2e70-4369-b2ad-5707235389af.jpeg",
+      "embed": "https://suno.com/embed/7719dcd8-2e70-4369-b2ad-5707235389af",
+      "dodano": "2026-09-15T12:19:30.416Z"
+    },
+    {
+      "typ": "playlista",
+      "id": "ccd255d8-d3e9-43b9-9025-f0a8eab76e51",
+      "url": "https://suno.com/playlist/ccd255d8-d3e9-43b9-9025-f0a8eab76e51",
+      "tytul": "Joann – Shadows",
+      "opis": "",
+      "autor": "TeO",
+      "okladka": "https://cdn2.suno.ai/image_e04d60d1-df47-4787-b7fb-910b1e92d6d9.jpeg",
+      "utwory": [
+        {
+          "id": "7719dcd8-2e70-4369-b2ad-5707235389af",
+          "tytul": "Joann Grand Sample",
+          "sekundy": 53,
+          "okladka": "https://cdn2.suno.ai/image_7719dcd8-2e70-4369-b2ad-5707235389af.jpeg",
+          "embed": "https://suno.com/embed/7719dcd8-2e70-4369-b2ad-5707235389af",
+          "url": "https://suno.com/song/7719dcd8-2e70-4369-b2ad-5707235389af"
+        },
+        {
+          "id": "944691ca-5e78-4058-af71-23f666b26798",
+          "tytul": "Joann - Velvet Dark (Intro)",
+          "sekundy": 98,
+          "okladka": "https://cdn2.suno.ai/image_944691ca-5e78-4058-af71-23f666b26798.jpeg",
+          "embed": "https://suno.com/embed/944691ca-5e78-4058-af71-23f666b26798",
+          "url": "https://suno.com/song/944691ca-5e78-4058-af71-23f666b26798"
+        },
+        {
+          "id": "9d7d0b1d-e7b7-4543-9ed4-17edc72d66f5",
+          "tytul": "Joann - Shadows on Glass",
+          "sekundy": 143,
+          "okladka": "https://cdn2.suno.ai/image_9d7d0b1d-e7b7-4543-9ed4-17edc72d66f5.jpeg",
+          "embed": "https://suno.com/embed/9d7d0b1d-e7b7-4543-9ed4-17edc72d66f5",
+          "url": "https://suno.com/song/9d7d0b1d-e7b7-4543-9ed4-17edc72d66f5"
+        },
+        {
+          "id": "f95c40c4-2e95-4045-9cd6-6b45d8e1f0c1",
+          "tytul": "Joann -Stagnant Air",
+          "sekundy": 153,
+          "okladka": "https://cdn2.suno.ai/image_f95c40c4-2e95-4045-9cd6-6b45d8e1f0c1.jpeg",
+          "embed": "https://suno.com/embed/f95c40c4-2e95-4045-9cd6-6b45d8e1f0c1",
+          "url": "https://suno.com/song/f95c40c4-2e95-4045-9cd6-6b45d8e1f0c1"
+        },
+        {
+          "id": "bdc23bd0-d36f-4360-9221-0372f4a7ada4",
+          "tytul": "Joann -Cool Skin",
+          "sekundy": 104,
+          "okladka": "https://cdn2.suno.ai/image_bdc23bd0-d36f-4360-9221-0372f4a7ada4.jpeg",
+          "embed": "https://suno.com/embed/bdc23bd0-d36f-4360-9221-0372f4a7ada4",
+          "url": "https://suno.com/song/bdc23bd0-d36f-4360-9221-0372f4a7ada4"
+        },
+        {
+          "id": "41dd3af8-fd61-42bd-b81f-4eae2681e98d",
+          "tytul": "Joann -Vacant Stare",
+          "sekundy": 157,
+          "okladka": "https://cdn2.suno.ai/image_41dd3af8-fd61-42bd-b81f-4eae2681e98d.jpeg",
+          "embed": "https://suno.com/embed/41dd3af8-fd61-42bd-b81f-4eae2681e98d",
+          "url": "https://suno.com/song/41dd3af8-fd61-42bd-b81f-4eae2681e98d"
+        },
+        {
+          "id": "9ed79064-291e-4652-b402-a028ca12ea6f",
+          "tytul": "Joann -Quiet World (Outro)",
+          "sekundy": 168,
+          "okladka": "https://cdn2.suno.ai/image_9ed79064-291e-4652-b402-a028ca12ea6f.jpeg",
+          "embed": "https://suno.com/embed/9ed79064-291e-4652-b402-a028ca12ea6f",
+          "url": "https://suno.com/song/9ed79064-291e-4652-b402-a028ca12ea6f"
+        },
+        {
+          "id": "35ead9b4-0286-4bf8-a447-5b590699b6e2",
+          "tytul": "Joann – Shadows A",
+          "sekundy": 178,
+          "okladka": "https://cdn2.suno.ai/image_e04d60d1-df47-4787-b7fb-910b1e92d6d9.jpeg",
+          "embed": "https://suno.com/embed/35ead9b4-0286-4bf8-a447-5b590699b6e2",
+          "url": "https://suno.com/song/35ead9b4-0286-4bf8-a447-5b590699b6e2"
+        }
+      ],
+      "dodano": "2026-09-15T12:19:30.167Z"
+    }
+  ],
   "produkty": [
     {
       "id": "chip-1789232520731-47ea8b64",
