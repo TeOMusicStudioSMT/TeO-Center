@@ -26,7 +26,7 @@ function KartaFilmu({ f, zywy }: { f: Film; zywy: boolean }) {
                     <iframe src={`https://www.youtube-nocookie.com/embed/${f.youtube}?autoplay=1`} title={f.tytul} allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className="absolute inset-0 h-full w-full" />
                 )}
                 {gra && !f.youtube && zywy && (
-                    <video src={f.strumien} referrerPolicy="origin" controls autoPlay className="absolute inset-0 h-full w-full" />
+                    <video src={f.strumien} controls autoPlay className="absolute inset-0 h-full w-full" />
                 )}
                 {!gra && (
                     <button onClick={() => mozeGrac && setGra(true)} className="group absolute inset-0 flex items-center justify-center" title={mozeGrac ? 'Odtwórz' : 'Ten film czeka na kanał YouTube — gra tylko na maszynie z Katedrą'}>
@@ -179,7 +179,7 @@ export default function Wystawa() {
                         {utwory.map((u) => (
                             <div key={u.id} className="rounded-xl border border-white/10 bg-white/[0.03] p-3">
                                 <div className="truncate text-[12px] font-bold text-slate-100">{u.tytul} <span className="text-[9px] font-normal text-slate-500">· {u.zrodlo}</span></div>
-                                <audio src={u.strumien} referrerPolicy="origin" controls preload="none" className="mt-2 w-full" />
+                                <audio src={u.strumien} controls preload="none" className="mt-2 w-full" />
                             </div>
                         ))}
                     </div>

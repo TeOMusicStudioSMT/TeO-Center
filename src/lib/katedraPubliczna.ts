@@ -50,3 +50,21 @@ export function plikKsiegi(url?: string | null): string | null {
     if (!url || !/^\/wizytowka\/ksiega\/k-\d{8}-[0-9a-f]{6}\/(zdjecie\.jpg|ilustracja\.png|nagranie\.mp4)(\?v=[\w%.:-]*)?$/.test(url)) return null;
     return `${ADRES_KATEDRY}${url}`;
 }
+
+/**
+ * 🌍 Zgłoś wejście do licznika Katedry (kraj podaje Cloudflare, IP nie jest zapisywane).
+ * Gospodarza nie liczymy: gdy na tej maszynie odpowiada jego most (127.0.0.1), to Suweren.
+ */
+export async function zglosWejscie(): Promise<void> {
+    try {
+        const r = await fetch('http://127.0.0.1:3001/api/wizytowka', { signal: AbortSignal.timeout(800) });
+        if (r.ok) return;
+    } catch { /* gość — mostu u niego nie ma */ }
+    try {
+        await fetch(`${ADRES_KATEDRY}/wizytowka/wejscie`, {
+            method: 'POST', keepalive: true,
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ strona: location.hostname, sciezka: location.pathname, skad: document.referrer || null }),
+        });
+    } catch { /* Katedra śpi — liczy wtedy Web Analytics Cloudflare */ }
+}

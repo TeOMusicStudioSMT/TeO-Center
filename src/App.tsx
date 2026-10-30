@@ -8,12 +8,13 @@
  * Zasada: każda sekcja mówi prawdę o swoim stanie — Katedra śpi, portfela
  * jeszcze nie ma = widać to, zamiast wypełniacza.
  */
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { MENU, MARKA, POWITANIE, MOSTY } from './tresc';
 import Pyl from './Pyl';
 import Wystawa from './Wystawa';
 import Wsparcie from './Wsparcie';
 import { ZywaKsiega, Kanal, useWizytowka } from './Zywe';
+import { zglosWejscie } from './lib/katedraPubliczna';
 
 function Naglowek() {
     const [otwarte, setOtwarte] = useState(false);
@@ -88,6 +89,7 @@ function Przejscie() {
 
 export default function App() {
     const wiz = useWizytowka();
+    useEffect(() => { void zglosWejscie(); }, []);
     const kanal = wiz.dane?.kanal;
     return (
         <div className="min-h-screen font-sans text-slate-200 antialiased">
