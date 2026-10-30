@@ -12,6 +12,7 @@ import { useEffect, useState } from 'react';
 import { MENU, MARKA, POWITANIE, MOSTY } from './tresc';
 import Pyl from './Pyl';
 import Wystawa from './Wystawa';
+import Galeria from './Galeria';
 import Wsparcie from './Wsparcie';
 import { ZywaKsiega, Kanal, useWizytowka } from './Zywe';
 import { zglosWejscie } from './lib/katedraPubliczna';
@@ -99,6 +100,7 @@ export default function App() {
                 <Powitanie />
                 <ZywaKsiega />
                 <Kanal w={wiz} />
+                <Galeria />
                 <Wystawa />
                 <Wsparcie w={wiz} />
                 <Przejscie />

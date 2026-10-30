@@ -24,6 +24,7 @@ export const POWITANIE = {
 export const MENU = [
     { etykieta: 'Żywa Księga', kotwica: 'ksiega' },
     { etykieta: 'Kanał', kotwica: 'kanal' },
+    { etykieta: 'Galeria', kotwica: 'galeria' },
     { etykieta: 'Wystawa', kotwica: 'filmy' },
     { etykieta: 'Wsparcie', kotwica: 'wsparcie' },
     { etykieta: 'Przejście', kotwica: 'przejscie' },
