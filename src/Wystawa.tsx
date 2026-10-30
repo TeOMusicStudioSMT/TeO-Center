@@ -26,7 +26,7 @@ function KartaFilmu({ f, zywy }: { f: Film; zywy: boolean }) {
                     <iframe src={`https://www.youtube-nocookie.com/embed/${f.youtube}?autoplay=1`} title={f.tytul} allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className="absolute inset-0 h-full w-full" />
                 )}
                 {gra && !f.youtube && zywy && (
-                    <video src={f.strumien} controls autoPlay className="absolute inset-0 h-full w-full" />
+                    <video src={f.strumien} referrerPolicy="origin" controls autoPlay className="absolute inset-0 h-full w-full" />
                 )}
                 {!gra && (
                     <button onClick={() => mozeGrac && setGra(true)} className="group absolute inset-0 flex items-center justify-center" title={mozeGrac ? 'Odtwórz' : 'Ten film czeka na kanał YouTube — gra tylko na maszynie z Katedrą'}>
@@ -106,7 +106,7 @@ export default function Wystawa() {
             const z = await katalogZywy();
             if (z) {
                 const plakaty = new Map((s?.filmy ?? []).map((f) => [f.id, f.plakat]));
-                setK({ ...z, filmy: z.filmy.map((f) => ({ ...f, plakat: plakaty.get(f.id) ?? null })), produkty: z.produkty.map((p) => ({ ...p, obraz: p.obraz ?? (s?.produkty.find((x) => x.id === p.id)?.obraz ?? null) })) });
+                setK({ ...z, filmy: z.filmy.map((f) => ({ ...f, plakat: plakaty.get(f.id) ?? null })), produkty: z.produkty.map((p) => ({ ...p, obraz: s?.produkty.find((x) => x.id === p.id)?.obraz ?? p.obraz })) });
                 setZrodlo('zywy');
             }
         })();
@@ -179,7 +179,7 @@ export default function Wystawa() {
                         {utwory.map((u) => (
                             <div key={u.id} className="rounded-xl border border-white/10 bg-white/[0.03] p-3">
                                 <div className="truncate text-[12px] font-bold text-slate-100">{u.tytul} <span className="text-[9px] font-normal text-slate-500">· {u.zrodlo}</span></div>
-                                <audio src={u.strumien} controls preload="none" className="mt-2 w-full" />
+                                <audio src={u.strumien} referrerPolicy="origin" controls preload="none" className="mt-2 w-full" />
                             </div>
                         ))}
                     </div>
@@ -194,7 +194,7 @@ export default function Wystawa() {
                     <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
                         {produkty.map((p) => (
                             <div key={p.id} className="overflow-hidden rounded-2xl border border-white/10 bg-white/[0.03]">
-                                {p.obraz ? <img src={p.obraz.startsWith('/') ? `.${p.obraz}` : p.obraz} alt={p.tytul} loading="lazy" className="aspect-[4/3] w-full object-cover" /> : <div className="flex aspect-[4/3] items-center justify-center bg-gradient-to-br from-slate-900 to-black text-3xl">{p.rodzaj === 'print' ? '🧬' : p.rodzaj === 'chip' ? '🔬' : '👗'}</div>}
+                                {p.obraz ? <img referrerPolicy="origin" src={p.obraz.startsWith('/') ? `.${p.obraz}` : p.obraz} alt={p.tytul} loading="lazy" className="aspect-[4/3] w-full object-cover" /> : <div className="flex aspect-[4/3] items-center justify-center bg-gradient-to-br from-slate-900 to-black text-3xl">{p.rodzaj === 'print' ? '🧬' : p.rodzaj === 'chip' ? '🔬' : '👗'}</div>}
                                 <div className="p-3">
                                     <div className="text-[9px] uppercase tracking-[0.2em] text-cyan-300/70">{p.dzial}</div>
                                     <div className="mt-0.5 truncate text-[12px] font-bold text-slate-100" title={p.tytul}>{p.tytul}</div>
