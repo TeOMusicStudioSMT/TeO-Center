@@ -51,7 +51,8 @@ function Wpis({ w }: { w: WpisKsiegi }) {
                     )}
                 </div>
                 <p className="mt-3 whitespace-pre-line font-serif text-[15px] leading-relaxed text-slate-100">{tekst}</p>
-                <p className="mt-2 text-xs tracking-[0.3em] text-fuchsia-300/80">~ TeO</p>
+                {/* Wpis z własnymi podpisami (np. dwa głosy: TeO i Klaudiusz) nie dostaje dopisanego „~ TeO”. */}
+                {!/^~ /m.test(w.tekst) && <p className="mt-2 text-xs tracking-[0.3em] text-fuchsia-300/80">~ TeO</p>}
                 {slowo && (
                     <blockquote className="mt-5 border-l-2 border-amber-200/30 pl-4 text-sm italic leading-relaxed text-slate-300">
                         {slowo}
