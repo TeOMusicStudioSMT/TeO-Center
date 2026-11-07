@@ -14,7 +14,8 @@
  *   · utwór z dysku Katedry → tylko u gospodarza
  */
 import { useEffect, useState } from 'react';
-import { katalogStatyczny, katalogZywy, czas, data, type Katalog, type Film, type Suno } from './lib/wystawa';
+import { katalogStatyczny, katalogZywy, produktyZywe, czas, data, type Katalog, type Film, type Suno } from './lib/wystawa';
+import { ADRES_KATEDRY } from './lib/katedraPubliczna';
 
 function KartaFilmu({ f, zywy }: { f: Film; zywy: boolean }) {
     const [gra, setGra] = useState(false);
@@ -104,6 +105,8 @@ export default function Wystawa() {
             if (s) { setK(s); setZrodlo('statyczny'); }
             // Gospodarz: Most żyje → żywy katalog nadpisuje statyczny (plakaty zostają ze statycznego, gdy pasują).
             const z = await katalogZywy();
+            // Gość: produkty na żywo z wizytówki Katedry (sklep 0.00G) — same się aktualizują, bez publikowania strony.
+            if (!z) { const p = await produktyZywe(ADRES_KATEDRY); if (p) setK((k0) => ({ ...(k0 ?? { opublikowano: null, filmy: [], utwory: [], suno: [], zywy: false }), produkty: p })); }
             if (z) {
                 const plakaty = new Map((s?.filmy ?? []).map((f) => [f.id, f.plakat]));
                 setK({ ...z, filmy: z.filmy.map((f) => ({ ...f, plakat: plakaty.get(f.id) ?? null })), produkty: z.produkty.map((p) => ({ ...p, obraz: s?.produkty.find((x) => x.id === p.id)?.obraz ?? p.obraz })) });
@@ -190,7 +193,7 @@ export default function Wystawa() {
             {produkty.length > 0 && (
                 <section id="produkty" className="mx-auto max-w-6xl scroll-mt-20 px-5 py-16">
                     <h2 className="text-2xl font-black tracking-tight text-white">Produkty Katedry</h2>
-                    <p className="mt-2 max-w-2xl text-sm leading-relaxed text-slate-400">Kreacje z TeO Fashion Studio, projekty układów i printy z TeO Lab — to, co powstało po drodze.</p>
+                    <p className="mt-2 max-w-2xl text-sm leading-relaxed text-slate-400">Odzież 0.00G Style z kolekcji postaci TeOgochi — prosto ze sklepu Katedry. Do tego projekty układów i printy z TeO Lab.</p>
                     <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
                         {produkty.map((p) => (
                             <div key={p.id} className="overflow-hidden rounded-2xl border border-white/10 bg-white/[0.03]">
@@ -199,6 +202,13 @@ export default function Wystawa() {
                                     <div className="text-[9px] uppercase tracking-[0.2em] text-cyan-300/70">{p.dzial}</div>
                                     <div className="mt-0.5 truncate text-[12px] font-bold text-slate-100" title={p.tytul}>{p.tytul}</div>
                                     {p.opis && <p className="mt-1 line-clamp-2 text-[10px] leading-relaxed text-slate-500">{p.opis}</p>}
+                                    {(p.cena != null || p.link) && (
+                                        <div className="mt-2 flex items-center gap-2">
+                                            {p.cena != null && <span className="text-[12px] font-bold text-amber-200">{p.cena.toFixed(2)} {p.waluta === 'EUR' ? '€' : p.waluta ?? ''}</span>}
+                                            {p.link ? <a href={p.link} target="_blank" rel="noopener" className="ml-auto rounded-full bg-amber-400 px-3 py-1 text-[10px] font-bold text-black hover:bg-amber-300">🛍️ Do sklepu</a>
+                                                : p.dzial?.includes('sklep') ? <span className="ml-auto text-[10px] text-slate-500">wkrótce w sklepie</span> : null}
+                                        </div>
+                                    )}
                                 </div>
                             </div>
                         ))}

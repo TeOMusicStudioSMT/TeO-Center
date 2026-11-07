@@ -17,7 +17,7 @@ export interface Film { id: string; rodzaj: 'odcinek' | 'film'; projekt: string;
 export interface Utwor { id: string; tytul: string; zrodlo: string; kiedy: string; strumien: string }
 export interface SunoUtwor { id: string; tytul: string; sekundy: number | null; okladka: string | null; embed: string; url: string }
 export interface Suno { typ?: 'utwor' | 'playlista'; id: string; url: string; tytul: string; opis: string; embed?: string; dodano: string; sekundy?: number | null; okladka?: string | null; autor?: string; utwory?: SunoUtwor[] }
-export interface Produkt { id: string; rodzaj: string; dzial: string; tytul: string; opis: string; kiedy: string | null; obraz: string | null }
+export interface Produkt { id: string; rodzaj: string; dzial: string; tytul: string; opis: string; kiedy: string | null; obraz: string | null; cena?: number | null; waluta?: string | null; link?: string | null }
 export interface Katalog { opublikowano: string | null; filmy: Film[]; utwory: Utwor[]; suno: Suno[]; produkty: Produkt[]; zywy: boolean }
 
 export async function katalogStatyczny(): Promise<Katalog | null> {
@@ -46,6 +46,22 @@ export async function katalogZywy(): Promise<Katalog | null> {
             produkty: (d.produkty ?? []).filter((p: { ukryty: boolean }) => !p.ukryty).map((p: Produkt & { obraz: string | null; strumien?: string }) => ({ ...p, obraz: p.obraz ? strumien(`/wystawa/plik/${p.id}`) : null })),
         };
     } catch { return null; } finally { clearTimeout(t); }
+}
+
+/**
+ * 🛍️ Produkty NA ŻYWO z publicznej wizytówki Katedry (stały tunel) — każdy gość, bez publikowania i wgrywania strony.
+ * To, co Stół Produktowy wysłał do sklepu: makieta, cena, link (tylko gdy sklep wystawia produkt publicznie).
+ * Katedra śpi = null (strona zostaje przy statycznym wystawa.json).
+ */
+export async function produktyZywe(adres: string): Promise<Produkt[] | null> {
+    try {
+        const r = await fetch(`${adres}/api/wizytowka`, { signal: AbortSignal.timeout(8000) });
+        if (!r.ok) return null;
+        const d = await r.json();
+        const lista = d?.wystawa?.produkty;
+        if (!Array.isArray(lista)) return null;
+        return lista.map((p: Produkt) => ({ ...p, obraz: p.obraz ? (p.obraz.startsWith('/') ? `${adres}${p.obraz}` : p.obraz) : null, link: typeof p.link === 'string' && /^https:\/\//.test(p.link) ? p.link : null }));
+    } catch { return null; }
 }
 
 export const czas = (s?: number | null) => (s ? `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}` : '');
