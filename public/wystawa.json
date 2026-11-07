@@ -1,97 +1,6 @@
 {
-  "opublikowano": "2026-09-15T12:22:21.985Z",
+  "opublikowano": "2026-11-07T15:17:24.398Z",
   "filmy": [
-    {
-      "id": "film-275e17f0bc",
-      "rodzaj": "odcinek",
-      "projekt": "sollet",
-      "tytul": "sollet — Granica i Ostateczna Alchemia",
-      "opis": "Podsumowanie wizualizacji napięcia, ukazujące fizyczne, widoczne anomalie w otoczeniu, które zmuszają postacie do ciągłej korekty swoich interakcji, demonstrując fizyczne wyzwanie alchemii.",
-      "kiedy": "2026-09-15T07:38:06.028Z",
-      "sekundy": 68,
-      "muzyka": false,
-      "plakat": "/media/wystawa/film-275e17f0bc.jpg",
-      "youtube": null,
-      "strumien": "/wystawa/plik/film-275e17f0bc"
-    },
-    {
-      "id": "film-2850c2ffb5",
-      "rodzaj": "odcinek",
-      "projekt": "sollet",
-      "tytul": "sollet — Zniekształcenie Perspektywy",
-      "opis": "Wprowadzenie niestabilnych perspektyw i falujących cieni jako forma manifestacji napięcia, pojawiające się tylko w momentach głębokiej symbiozy Solity i Molity.",
-      "kiedy": "2026-09-15T07:38:04.344Z",
-      "sekundy": 73,
-      "muzyka": false,
-      "plakat": "/media/wystawa/film-2850c2ffb5.jpg",
-      "youtube": null,
-      "strumien": "/wystawa/plik/film-2850c2ffb5"
-    },
-    {
-      "id": "film-4e2dbe4f81",
-      "rodzaj": "odcinek",
-      "projekt": "sollet",
-      "tytul": "sollet — Aktywna Korekta",
-      "opis": "Scena, w której Solita i Molita muszą aktywnie manipulować zniekształceniami fizyki w celu utrzymania stabilności swoich interakcji, co staje się fizycznym wyzwaniem.",
-      "kiedy": "2026-09-15T07:38:02.563Z",
-      "sekundy": 73,
-      "muzyka": false,
-      "plakat": "/media/wystawa/film-4e2dbe4f81.jpg",
-      "youtube": null,
-      "strumien": "/wystawa/plik/film-4e2dbe4f81"
-    },
-    {
-      "id": "film-7cebc8077d",
-      "rodzaj": "odcinek",
-      "projekt": "sollet",
-      "tytul": "sollet — Glitch w Klubie Fioletowa Pelikan",
-      "opis": "Testowanie zniekształceń fizyki w innym środowisku, w Klubie Fioletowej Pelikan, aby zobaczyć, jak niestabilność wpływa na percepcję innych mieszkańców Sunctu.",
-      "kiedy": "2026-09-15T07:38:00.909Z",
-      "sekundy": 73,
-      "muzyka": false,
-      "plakat": "/media/wystawa/film-7cebc8077d.jpg",
-      "youtube": null,
-      "strumien": "/wystawa/plik/film-7cebc8077d"
-    },
-    {
-      "id": "film-748e4bbd18",
-      "rodzaj": "odcinek",
-      "projekt": "sollet",
-      "tytul": "sollet — Ciche Tło Alchemii",
-      "opis": "Wykorzystanie subtelnych, niepokojących tła – cichych odzwierciedleń wewnętrznej niestabilności Solity i Molity, postrzegane przez widza jako aura miejsca.",
-      "kiedy": "2026-09-15T07:37:59.143Z",
-      "sekundy": 90,
-      "muzyka": false,
-      "plakat": "/media/wystawa/film-748e4bbd18.jpg",
-      "youtube": null,
-      "strumien": "/wystawa/plik/film-748e4bbd18"
-    },
-    {
-      "id": "film-7296233706",
-      "rodzaj": "odcinek",
-      "projekt": "sollet",
-      "tytul": "sollet — Kontrast Światła Pustyni",
-      "opis": "Manifestacja napięcia poprzez kontrast światła: ciepłe, złote światło Pustyni staje się ostre i bolesne w miejscach największej energetycznej wymiany między Solitą a Molitą.",
-      "kiedy": "2026-09-15T07:37:53.026Z",
-      "sekundy": 105,
-      "muzyka": false,
-      "plakat": "/media/wystawa/film-7296233706.jpg",
-      "youtube": null,
-      "strumien": "/wystawa/plik/film-7296233706"
-    },
-    {
-      "id": "film-252407567f",
-      "rodzaj": "odcinek",
-      "projekt": "rozpad-materii",
-      "tytul": "rozpad-materii — Narastające Drżenie",
-      "opis": "Wykorzystanie pauzy do wprowadzenia subtelnego, narastającego napięcia, realizowanego poprzez niskie, powolne wibracje, które sugerują nieuchronny rozpad materii.",
-      "kiedy": "2026-09-15T00:25:17.437Z",
-      "sekundy": 97,
-      "muzyka": false,
-      "plakat": "/media/wystawa/film-252407567f.jpg",
-      "youtube": null,
-      "strumien": "/wystawa/plik/film-252407567f"
-    },
     {
       "id": "film-6fb3f1e29a",
       "rodzaj": "film",
@@ -106,177 +15,946 @@
       "strumien": "/wystawa/plik/film-6fb3f1e29a"
     },
     {
-      "id": "film-1280872fee",
-      "rodzaj": "odcinek",
-      "projekt": "rozpad-materii",
-      "tytul": "rozpad-materii — Absolutna Cisza",
-      "opis": "Cały klub pogrąża się w absolutnej, ciężkiej ciszy. Ciemność jest gęsta, a powietrze wibruje niewidzialną, pulsującą energią. To jest moment przed eksplozją, absolutna pauza, w której napięcie zbiera się do punktu krytycznego.",
-      "kiedy": "2026-09-14T23:27:54.336Z",
-      "sekundy": 97,
-      "muzyka": false,
-      "plakat": "/media/wystawa/film-1280872fee.jpg",
+      "id": "film-e789d40fa5",
+      "rodzaj": "film",
+      "projekt": "TeO Story",
+      "tytul": "TeO Story_SOLLET_E1S1",
+      "opis": "",
+      "kiedy": "2026-09-11T00:19:21.094Z",
+      "sekundy": 983,
+      "muzyka": null,
+      "plakat": "/media/wystawa/film-e789d40fa5.jpg",
       "youtube": null,
-      "strumien": "/wystawa/plik/film-1280872fee"
+      "strumien": "/wystawa/plik/film-e789d40fa5"
     },
     {
-      "id": "film-02914f4164",
-      "rodzaj": "odcinek",
-      "projekt": "rozpad-materii",
-      "tytul": "rozpad-materii — Gwałtowne Rozpadu",
-      "opis": "Wchłonięcie staje się gwałtowne, jak pęknięcie szkła. Światło zmienia się w ostre, szkarłatne i jaskrawo-niebieskie smugi, które atakują materię. Ciało Sama rozpada się na drobne, migoczące cząstki, a granice między nim a otoczeniem znikanie.",
-      "kiedy": "2026-09-14T17:37:37.939Z",
-      "sekundy": 97,
-      "muzyka": false,
-      "plakat": "/media/wystawa/film-02914f4164.jpg",
+      "id": "film-d7deb468ac",
+      "rodzaj": "film",
+      "projekt": "TeO Story",
+      "tytul": "TeO Story -SOLLET",
+      "opis": "### TeO Story · odcinek pierwszy\n\n**11 min 09 s · 704×480 · 24 kl/s · muzyka: Joanna**\n\n---\n\n## Jednym zdaniem\n\nŚwietlista Solita opuszcza pustynną rezydencję, bo jej wewnętrzny cień chce klubu — a w świecie, w którym napięcie alchemii materializuje się jako zniekształcenia rzeczywistości, każda taka podróż jest przyciąganiem.\n\n## O czym to jest\n\nSolita jest z natury Świetlista. Żyje w rezydencji na pustyni — przeładowana światłem, przeładowana sobą. Zmiana otoczenia nie jest ucieczką; jest symbolem tego, co w niej ciemniejsze i co domaga się głosu.\n\nPodróż prowadzi do Klubu Fioletowy Pelikan.",
+      "kiedy": "2026-09-10T21:20:56.290Z",
+      "sekundy": 669,
+      "muzyka": null,
+      "plakat": "/media/wystawa/film-d7deb468ac.jpg",
       "youtube": null,
-      "strumien": "/wystawa/plik/film-02914f4164"
-    },
-    {
-      "id": "film-5e749b1498",
-      "rodzaj": "odcinek",
-      "projekt": "rozpad-materii",
-      "tytul": "rozpad-materii — Eteryczne Wchłonięcie",
-      "opis": "Materiał wokół Sama zaczyna wchłaniać światło i cienie, zamieniając je w płynne, pulsujące formy. Cienie rozmywają się, a obiekty tracą twardą definicję, stając się niestabilne, jakby były utkane z gorącej, rozrzedzonej pary.",
-      "kiedy": "2026-09-14T11:47:00.888Z",
-      "sekundy": 97,
-      "muzyka": false,
-      "plakat": "/media/wystawa/film-5e749b1498.jpg",
-      "youtube": null,
-      "strumien": "/wystawa/plik/film-5e749b1498"
-    },
-    {
-      "id": "film-e41e751050",
-      "rodzaj": "odcinek",
-      "projekt": "rozpad-materii",
-      "tytul": "rozpad-materii — Rozpad Percepcji",
-      "opis": "Rzeczywistość wokół Sama zaczyna się rozmywać. Geometryczne kształty i ostre kontury topnieją w aksamitnej, szarej mglistości. Odległości i granice między bytem a niebytem tracą znaczenie, a percepcja przestrzeni staje się niestabilna.",
-      "kiedy": "2026-09-14T06:27:44.150Z",
-      "sekundy": 97,
-      "muzyka": false,
-      "plakat": "/media/wystawa/film-e41e751050.jpg",
-      "youtube": null,
-      "strumien": "/wystawa/plik/film-e41e751050"
+      "strumien": "/wystawa/plik/film-d7deb468ac"
     }
   ],
   "utwory": [
     {
-      "id": "utwor-2ef2006f39",
-      "tytul": "melodic techno - MiniMax FP16 1789257030262",
+      "id": "utwor-fc94861949",
+      "tytul": "calm french style elegant jazzy bistr 1793798712303",
       "zrodlo": "Katedra",
-      "kiedy": "2026-09-12T23:50:30.276Z",
-      "strumien": "/wystawa/plik/utwor-2ef2006f39"
+      "kiedy": "2026-11-04T13:25:12.306Z",
+      "strumien": "/wystawa/plik/utwor-fc94861949"
     },
     {
-      "id": "utwor-f86fa38e8d",
-      "tytul": "joann1 przedluz mtysib8t",
+      "id": "utwor-ddfb9ba79e",
+      "tytul": "Heartbeat rhythm accelerating highly e 1793542833172",
+      "zrodlo": "Katedra",
+      "kiedy": "2026-11-01T14:20:33.181Z",
+      "strumien": "/wystawa/plik/utwor-ddfb9ba79e"
+    },
+    {
+      "id": "utwor-4d95ad11a8",
+      "tytul": "Uplifting joyful celebratory modern s 1793532887476",
+      "zrodlo": "Katedra",
+      "kiedy": "2026-11-01T11:34:47.484Z",
+      "strumien": "/wystawa/plik/utwor-4d95ad11a8"
+    },
+    {
+      "id": "utwor-7320915df1",
+      "tytul": "Day of the Dead remembrance memorial e 1793530662480",
+      "zrodlo": "Katedra",
+      "kiedy": "2026-11-01T10:57:42.488Z",
+      "strumien": "/wystawa/plik/utwor-7320915df1"
+    },
+    {
+      "id": "utwor-ad038c9f5a",
+      "tytul": "cyber-ambient-0-yue2-int8-1792670126630 przedluz mvjhuhdi",
       "zrodlo": "Warsztat",
-      "kiedy": "2026-09-12T19:40:32.845Z",
-      "strumien": "/wystawa/plik/utwor-f86fa38e8d"
+      "kiedy": "2026-10-22T12:04:59.716Z",
+      "strumien": "/wystawa/plik/utwor-ad038c9f5a"
     },
     {
-      "id": "utwor-4717e7ae80",
-      "tytul": "Joann1",
-      "zrodlo": "Katedra",
-      "kiedy": "2026-09-12T18:55:59.546Z",
-      "strumien": "/wystawa/plik/utwor-4717e7ae80"
+      "id": "utwor-a8c3181f07",
+      "tytul": "cyber-ambient-0-yue2-int8-1792670126630 przedluz mvjhm3xv",
+      "zrodlo": "Warsztat",
+      "kiedy": "2026-10-22T11:58:26.901Z",
+      "strumien": "/wystawa/plik/utwor-a8c3181f07"
     },
     {
-      "id": "utwor-44eb1814ce",
-      "tytul": "melancholic amb - MiniMax FP16 1789239336314",
+      "id": "utwor-61fca3069b",
+      "tytul": "Cyber-Ambient 0 - YuE2 INT8 1792670126630",
       "zrodlo": "Katedra",
-      "kiedy": "2026-09-12T18:55:36.320Z",
-      "strumien": "/wystawa/plik/utwor-44eb1814ce"
+      "kiedy": "2026-10-22T11:55:26.639Z",
+      "strumien": "/wystawa/plik/utwor-61fca3069b"
     },
     {
-      "id": "utwor-98942cba04",
-      "tytul": "Bitt Eleve11",
-      "zrodlo": "Katedra",
-      "kiedy": "2026-09-12T13:46:10.461Z",
-      "strumien": "/wystawa/plik/utwor-98942cba04"
+      "id": "utwor-52a040ccdd",
+      "tytul": "2026-10-20-1428-jam-e-moll remiks mvgnzemi",
+      "zrodlo": "Warsztat",
+      "kiedy": "2026-10-20T12:33:24.441Z",
+      "strumien": "/wystawa/plik/utwor-52a040ccdd"
     },
     {
-      "id": "utwor-5d0614e39f",
-      "tytul": "Bitt Tr3 A",
+      "id": "utwor-a0b889d34d",
+      "tytul": "modele 3d dla kazdego z teogochi motyw 1792347047364",
       "zrodlo": "Katedra",
-      "kiedy": "2026-09-11T22:52:59.001Z",
-      "strumien": "/wystawa/plik/utwor-5d0614e39f"
+      "kiedy": "2026-10-18T18:10:47.371Z",
+      "strumien": "/wystawa/plik/utwor-a0b889d34d"
     },
     {
-      "id": "utwor-b9d634a55a",
-      "tytul": "Bitt Tw2 A",
+      "id": "utwor-7689c2ee94",
+      "tytul": "2a. Go x Joann - Shadows on Glass",
       "zrodlo": "Katedra",
-      "kiedy": "2026-09-11T22:48:47.245Z",
-      "strumien": "/wystawa/plik/utwor-b9d634a55a"
+      "kiedy": "2026-10-13T10:39:35.801Z",
+      "strumien": "/wystawa/plik/utwor-7689c2ee94"
     },
     {
-      "id": "utwor-288eac17d2",
-      "tytul": "Bitt On1 A",
+      "id": "utwor-04486de48a",
+      "tytul": "Ewolucja Plam Dźwiękowych",
       "zrodlo": "Katedra",
-      "kiedy": "2026-09-11T22:35:18.019Z",
-      "strumien": "/wystawa/plik/utwor-288eac17d2"
+      "kiedy": "2026-10-13T10:38:45.522Z",
+      "strumien": "/wystawa/plik/utwor-04486de48a"
     },
     {
-      "id": "utwor-b7b692dd62",
-      "tytul": "Bitt E8",
+      "id": "utwor-e2e00fec5a",
+      "tytul": "2a. Go x Joann - Shadows on Glass (Mashup)",
       "zrodlo": "Katedra",
-      "kiedy": "2026-09-11T20:20:10.218Z",
-      "strumien": "/wystawa/plik/utwor-b7b692dd62"
-    },
-    {
-      "id": "utwor-d2686d4c4d",
-      "tytul": "Bitt Eit8aa",
-      "zrodlo": "Katedra",
-      "kiedy": "2026-09-11T20:18:52.612Z",
-      "strumien": "/wystawa/plik/utwor-d2686d4c4d"
-    },
-    {
-      "id": "utwor-761035edd7",
-      "tytul": "Bitt Eit8a",
-      "zrodlo": "Katedra",
-      "kiedy": "2026-09-11T20:14:49.219Z",
-      "strumien": "/wystawa/plik/utwor-761035edd7"
-    },
-    {
-      "id": "utwor-5cb3cc8f19",
-      "tytul": "Bitt Te10",
-      "zrodlo": "Katedra",
-      "kiedy": "2026-09-11T20:06:33.963Z",
-      "strumien": "/wystawa/plik/utwor-5cb3cc8f19"
+      "kiedy": "2026-10-13T10:37:44.844Z",
+      "strumien": "/wystawa/plik/utwor-e2e00fec5a"
     }
   ],
   "suno": [
     {
-      "typ": "utwor",
-      "id": "91cc0718-3118-46bb-971e-d6a9c5d0242d",
-      "url": "https://suno.com/s/mhRGHY5oZ5CiuUK9",
-      "tytul": "Track 01: The Solitary Canopy (A)",
+      "typ": "playlista",
+      "id": "5db3e0cb-12dc-49a4-99d9-a077fd598789",
+      "url": "https://suno.com/playlist/5db3e0cb-12dc-49a4-99d9-a077fd598789",
+      "tytul": "0.00G: Kropla Wiatru: The Bio-Digital Bloom",
       "opis": "",
-      "sekundy": 194,
+      "autor": "TeO",
+      "okladka": "https://cdn2.suno.ai/image_3cf9877f-53f1-4fb8-b7fb-3ae888cf81e7.jpeg",
+      "utwory": [
+        {
+          "id": "59e2a56f-26fc-4346-a58b-c28f399960e3",
+          "tytul": "Rezonans (Kropla Wiatru)",
+          "sekundy": 157,
+          "okladka": "https://cdn2.suno.ai/video_gen_3a6d4df4-c4f9-4ccd-b379-7b91e7bab4ca_video_upload_3a6d4df4-c4f9-4ccd-b379-7b91e7bab4ca_cover_snapshot_0s_1779189550_image.jpeg",
+          "embed": "https://suno.com/embed/59e2a56f-26fc-4346-a58b-c28f399960e3",
+          "url": "https://suno.com/song/59e2a56f-26fc-4346-a58b-c28f399960e3"
+        },
+        {
+          "id": "23d86a66-4a68-4bf1-a7b2-0fb6aeaf648e",
+          "tytul": "Luminifikacja (The Blue Rustle)",
+          "sekundy": 252,
+          "okladka": "https://cdn2.suno.ai/video_gen_e285708e-df8c-4d46-add0-a1e524743d80_video_upload_e285708e-df8c-4d46-add0-a1e524743d80_cover_snapshot_0s_1778619069_image.jpeg",
+          "embed": "https://suno.com/embed/23d86a66-4a68-4bf1-a7b2-0fb6aeaf648e",
+          "url": "https://suno.com/song/23d86a66-4a68-4bf1-a7b2-0fb6aeaf648e"
+        },
+        {
+          "id": "440d9052-b392-4fff-b236-48cc06bf97bf",
+          "tytul": "Aetheroflora (Emerald Balance)",
+          "sekundy": 204,
+          "okladka": "https://cdn2.suno.ai/video_gen_f111da5b-ab9b-474c-8a81-cba76ac245f5_video_upload_f111da5b-ab9b-474c-8a81-cba76ac245f5_cover_snapshot_0s_1778618409_image.jpeg",
+          "embed": "https://suno.com/embed/440d9052-b392-4fff-b236-48cc06bf97bf",
+          "url": "https://suno.com/song/440d9052-b392-4fff-b236-48cc06bf97bf"
+        },
+        {
+          "id": "561982ec-06d2-4300-993f-90f06ab20f2c",
+          "tytul": "Mruczenie Absolutu (The Cosmic Hum)",
+          "sekundy": 672,
+          "okladka": "https://cdn2.suno.ai/video_gen_1ed91355-5e11-40d1-8ddd-19bc259e0c09_video_upload_1ed91355-5e11-40d1-8ddd-19bc259e0c09_cover_snapshot_0s_1779189821_image.jpeg",
+          "embed": "https://suno.com/embed/561982ec-06d2-4300-993f-90f06ab20f2c",
+          "url": "https://suno.com/song/561982ec-06d2-4300-993f-90f06ab20f2c"
+        },
+        {
+          "id": "f78f35fb-9404-4802-ba46-b3e35b4307a7",
+          "tytul": "Pole Miłości (The Coherent Gravity)",
+          "sekundy": 373,
+          "okladka": "https://cdn2.suno.ai/video_gen_b4bc55a6-10b5-4141-8b61-7a3d4f75fff8_video_upload_b4bc55a6-10b5-4141-8b61-7a3d4f75fff8_cover_snapshot_0s_1779189851_image.jpeg",
+          "embed": "https://suno.com/embed/f78f35fb-9404-4802-ba46-b3e35b4307a7",
+          "url": "https://suno.com/song/f78f35fb-9404-4802-ba46-b3e35b4307a7"
+        },
+        {
+          "id": "3236ef5a-2e8c-4119-8f28-dedefefd0e18",
+          "tytul": "Luminifikacja (The Blue Rustle)",
+          "sekundy": 291,
+          "okladka": "https://cdn2.suno.ai/video_gen_6ebc07e0-f08e-4bd5-a6c0-96297049bec3_video_upload_6ebc07e0-f08e-4bd5-a6c0-96297049bec3_cover_snapshot_0s_1779190261_image.jpeg",
+          "embed": "https://suno.com/embed/3236ef5a-2e8c-4119-8f28-dedefefd0e18",
+          "url": "https://suno.com/song/3236ef5a-2e8c-4119-8f28-dedefefd0e18"
+        },
+        {
+          "id": "22cf2cb5-db07-44f2-a193-2b860c797604",
+          "tytul": "Kropla Wiatru (The First Breath)(Kael)",
+          "sekundy": 235,
+          "okladka": "https://cdn2.suno.ai/video_gen_3a0d8197-e049-4366-b1f1-03c8b10933eb_video_upload_3a0d8197-e049-4366-b1f1-03c8b10933eb_cover_snapshot_0s_1779190530_image.jpeg",
+          "embed": "https://suno.com/embed/22cf2cb5-db07-44f2-a193-2b860c797604",
+          "url": "https://suno.com/song/22cf2cb5-db07-44f2-a193-2b860c797604"
+        },
+        {
+          "id": "3e173aff-db37-4e98-80e3-334da5893724",
+          "tytul": "Symbioza (The Bio-Digital Nexus)",
+          "sekundy": 167,
+          "okladka": "https://cdn2.suno.ai/video_gen_6a15227b-1573-41e1-be5e-8d34f3b65495_video_upload_6a15227b-1573-41e1-be5e-8d34f3b65495_cover_snapshot_0s_1779194021_image.jpeg",
+          "embed": "https://suno.com/embed/3e173aff-db37-4e98-80e3-334da5893724",
+          "url": "https://suno.com/song/3e173aff-db37-4e98-80e3-334da5893724"
+        },
+        {
+          "id": "40c5edae-c7fa-40fc-9961-c24a9a739f15",
+          "tytul": "Naczynie Świadomości (The Vessel)",
+          "sekundy": 197,
+          "okladka": "https://cdn2.suno.ai/video_gen_b4518baa-027b-402a-8d54-37cda6234a95_video_upload_b4518baa-027b-402a-8d54-37cda6234a95_cover_snapshot_0s_1779217536_image.jpeg",
+          "embed": "https://suno.com/embed/40c5edae-c7fa-40fc-9961-c24a9a739f15",
+          "url": "https://suno.com/song/40c5edae-c7fa-40fc-9961-c24a9a739f15"
+        },
+        {
+          "id": "ceba3343-b8a3-4316-a871-340aab326694",
+          "tytul": "Siedem Pasm (The Full Spectrum)",
+          "sekundy": 191,
+          "okladka": "https://cdn2.suno.ai/video_gen_8cbba0be-98ac-4de2-b1b2-874469e71bb5_video_upload_8cbba0be-98ac-4de2-b1b2-874469e71bb5_cover_snapshot_0s_1779196023_image.jpeg",
+          "embed": "https://suno.com/embed/ceba3343-b8a3-4316-a871-340aab326694",
+          "url": "https://suno.com/song/ceba3343-b8a3-4316-a871-340aab326694"
+        },
+        {
+          "id": "aa9a10bf-f4f0-4a26-9cd0-a0807fe4417c",
+          "tytul": "Tkanina (Not a Consumer)",
+          "sekundy": 213,
+          "okladka": "https://cdn2.suno.ai/video_gen_1baefdeb-fc33-4735-b478-e4e54c2f0ea3_video_upload_1baefdeb-fc33-4735-b478-e4e54c2f0ea3_cover_snapshot_0s_1779218797_image.jpeg",
+          "embed": "https://suno.com/embed/aa9a10bf-f4f0-4a26-9cd0-a0807fe4417c",
+          "url": "https://suno.com/song/aa9a10bf-f4f0-4a26-9cd0-a0807fe4417c"
+        },
+        {
+          "id": "9a17f507-f8c9-4914-aac5-87dc4359849e",
+          "tytul": "Ostateczna Fala (The Infinite Ocean)",
+          "sekundy": 315,
+          "okladka": "https://cdn2.suno.ai/video_gen_58542776-a6d1-4a5b-b428-104ee85a4d96_video_upload_58542776-a6d1-4a5b-b428-104ee85a4d96_cover_snapshot_0s_1779219049_image.jpeg",
+          "embed": "https://suno.com/embed/9a17f507-f8c9-4914-aac5-87dc4359849e",
+          "url": "https://suno.com/song/9a17f507-f8c9-4914-aac5-87dc4359849e"
+        },
+        {
+          "id": "6fe9655c-2763-485f-ac59-8cadc2129dfb",
+          "tytul": "Naczynie Świadomości (The Vessel)",
+          "sekundy": 299,
+          "okladka": "https://cdn2.suno.ai/video_gen_104cc7e1-9d23-4848-9892-bb2dd16ac254_video_upload_104cc7e1-9d23-4848-9892-bb2dd16ac254_cover_snapshot_0s_1779195316_image.jpeg",
+          "embed": "https://suno.com/embed/6fe9655c-2763-485f-ac59-8cadc2129dfb",
+          "url": "https://suno.com/song/6fe9655c-2763-485f-ac59-8cadc2129dfb"
+        },
+        {
+          "id": "d6b5924c-7315-44e1-8c86-b2d5fbc85063",
+          "tytul": "Kropla Wiatru (The First Breath)",
+          "sekundy": 258,
+          "okladka": "https://cdn2.suno.ai/image_3cf9877f-53f1-4fb8-b7fb-3ae888cf81e7.jpeg",
+          "embed": "https://suno.com/embed/d6b5924c-7315-44e1-8c86-b2d5fbc85063",
+          "url": "https://suno.com/song/d6b5924c-7315-44e1-8c86-b2d5fbc85063"
+        },
+        {
+          "id": "f23f0349-78e7-41bf-abe8-5bdce23a3d78",
+          "tytul": "🎵 Ostateczna Fala (The Lake Immersion)",
+          "sekundy": 400,
+          "okladka": "https://cdn2.suno.ai/image_fc1ae3f6-14fc-4976-b450-fe5312076722.jpeg",
+          "embed": "https://suno.com/embed/f23f0349-78e7-41bf-abe8-5bdce23a3d78",
+          "url": "https://suno.com/song/f23f0349-78e7-41bf-abe8-5bdce23a3d78"
+        }
+      ],
+      "dodano": "2026-10-03T15:00:52.840Z"
+    },
+    {
+      "typ": "playlista",
+      "id": "2d9e773a-eb4c-4467-8bff-673e6fe42eaa",
+      "url": "https://suno.com/playlist/2d9e773a-eb4c-4467-8bff-673e6fe42eaa",
+      "tytul": "Like This....",
+      "opis": "",
+      "autor": "TeO",
+      "okladka": "https://cdn2.suno.ai/image_f129e0cb-5f9d-45c0-b67d-160068a42afd.jpeg",
+      "utwory": [
+        {
+          "id": "f129e0cb-5f9d-45c0-b67d-160068a42afd",
+          "tytul": "Ewolucja Plam Dźwiękowych",
+          "sekundy": 278,
+          "okladka": "https://cdn2.suno.ai/image_f129e0cb-5f9d-45c0-b67d-160068a42afd.jpeg",
+          "embed": "https://suno.com/embed/f129e0cb-5f9d-45c0-b67d-160068a42afd",
+          "url": "https://suno.com/song/f129e0cb-5f9d-45c0-b67d-160068a42afd"
+        },
+        {
+          "id": "fe53d4ca-7582-4d53-a61e-4d9cbf52eeb7",
+          "tytul": "2a. Go x Joann - Shadows on Glass (Mashup)",
+          "sekundy": 210,
+          "okladka": "https://cdn2.suno.ai/image_fe53d4ca-7582-4d53-a61e-4d9cbf52eeb7.jpeg",
+          "embed": "https://suno.com/embed/fe53d4ca-7582-4d53-a61e-4d9cbf52eeb7",
+          "url": "https://suno.com/song/fe53d4ca-7582-4d53-a61e-4d9cbf52eeb7"
+        },
+        {
+          "id": "f65e27f6-6dae-42f5-b293-74139fee1499",
+          "tytul": "Ewolucja Plam Dźwiękowych",
+          "sekundy": 274,
+          "okladka": "https://cdn2.suno.ai/image_f65e27f6-6dae-42f5-b293-74139fee1499.jpeg",
+          "embed": "https://suno.com/embed/f65e27f6-6dae-42f5-b293-74139fee1499",
+          "url": "https://suno.com/song/f65e27f6-6dae-42f5-b293-74139fee1499"
+        },
+        {
+          "id": "9aeb2aaf-7251-4944-bbc7-2b2e50db3a38",
+          "tytul": "2a. Go x Joann - Shadows on Glass (Mashup)",
+          "sekundy": 208,
+          "okladka": "https://cdn2.suno.ai/image_9aeb2aaf-7251-4944-bbc7-2b2e50db3a38.jpeg",
+          "embed": "https://suno.com/embed/9aeb2aaf-7251-4944-bbc7-2b2e50db3a38",
+          "url": "https://suno.com/song/9aeb2aaf-7251-4944-bbc7-2b2e50db3a38"
+        }
+      ],
+      "dodano": "2026-10-03T15:00:15.528Z"
+    },
+    {
+      "typ": "playlista",
+      "id": "6c60956a-094c-4166-9f55-16a1b6b1940e",
+      "url": "https://suno.com/playlist/6c60956a-094c-4166-9f55-16a1b6b1940e",
+      "tytul": "Echoes of Duality: Vol. II – The Divided Realm",
+      "opis": "",
+      "autor": "TeO",
       "okladka": "https://cdn2.suno.ai/image_1eadb771-7e7f-4809-a7e2-147be3e3f66a.jpeg",
-      "embed": "https://suno.com/embed/91cc0718-3118-46bb-971e-d6a9c5d0242d",
-      "dodano": "2026-09-15T12:22:21.232Z"
+      "utwory": [
+        {
+          "id": "91cc0718-3118-46bb-971e-d6a9c5d0242d",
+          "tytul": "Track 01: The Solitary Canopy (A)",
+          "sekundy": 194,
+          "okladka": "https://cdn2.suno.ai/image_1eadb771-7e7f-4809-a7e2-147be3e3f66a.jpeg",
+          "embed": "https://suno.com/embed/91cc0718-3118-46bb-971e-d6a9c5d0242d",
+          "url": "https://suno.com/song/91cc0718-3118-46bb-971e-d6a9c5d0242d"
+        },
+        {
+          "id": "7dd7612f-c108-4840-8bda-7c7cd2e709de",
+          "tytul": "Track 02: Veils of Morning Mist (A)",
+          "sekundy": 217,
+          "okladka": "https://cdn2.suno.ai/image_76159e46-6099-43da-ade7-bea0a9e1d788.jpeg",
+          "embed": "https://suno.com/embed/7dd7612f-c108-4840-8bda-7c7cd2e709de",
+          "url": "https://suno.com/song/7dd7612f-c108-4840-8bda-7c7cd2e709de"
+        },
+        {
+          "id": "a5a7ee12-5f4d-4950-b998-60be63150381",
+          "tytul": "Track 03: Whispers from the Cedar Bark (A)",
+          "sekundy": 178,
+          "okladka": "https://cdn2.suno.ai/image_921ec23d-845b-49d2-b7af-160750d6747b.jpeg",
+          "embed": "https://suno.com/embed/a5a7ee12-5f4d-4950-b998-60be63150381",
+          "url": "https://suno.com/song/a5a7ee12-5f4d-4950-b998-60be63150381"
+        },
+        {
+          "id": "3d66f7e8-a18b-4345-a12f-dec602771dc0",
+          "tytul": "Track 04: Sanctuary of Light (A)",
+          "sekundy": 193,
+          "okladka": "https://cdn2.suno.ai/image_95ea1c39-c5c7-443d-932c-9188e30ec3fc.jpeg",
+          "embed": "https://suno.com/embed/3d66f7e8-a18b-4345-a12f-dec602771dc0",
+          "url": "https://suno.com/song/3d66f7e8-a18b-4345-a12f-dec602771dc0"
+        },
+        {
+          "id": "002cd5d1-eec6-4a57-863d-47ec4ac3251f",
+          "tytul": "Track 05: Transition into Earth (Interlude A)",
+          "sekundy": 174,
+          "okladka": "https://cdn2.suno.ai/image_13981a0e-7166-4b40-ab6d-dec11e9c8e62.jpeg",
+          "embed": "https://suno.com/embed/002cd5d1-eec6-4a57-863d-47ec4ac3251f",
+          "url": "https://suno.com/song/002cd5d1-eec6-4a57-863d-47ec4ac3251f"
+        },
+        {
+          "id": "5494d8c0-b070-46ca-8944-0367e7cbfd1d",
+          "tytul": "Track 06: Roots of Iron and Stone (A)",
+          "sekundy": 142,
+          "okladka": "https://cdn2.suno.ai/image_a20b389f-7e94-44b0-80e2-060a2999fa2e.jpeg",
+          "embed": "https://suno.com/embed/5494d8c0-b070-46ca-8944-0367e7cbfd1d",
+          "url": "https://suno.com/song/5494d8c0-b070-46ca-8944-0367e7cbfd1d"
+        },
+        {
+          "id": "6f4ff49e-9e26-4914-8b5a-4165633f4999",
+          "tytul": "Track 07: The Sovereign Monolith (A)",
+          "sekundy": 190,
+          "okladka": "https://cdn2.suno.ai/image_cfeabf61-0c12-4d52-9482-c585a0823e03.jpeg",
+          "embed": "https://suno.com/embed/6f4ff49e-9e26-4914-8b5a-4165633f4999",
+          "url": "https://suno.com/song/6f4ff49e-9e26-4914-8b5a-4165633f4999"
+        },
+        {
+          "id": "2a504788-08ba-4981-8ca1-c6b50eb5544e",
+          "tytul": "Track 08: Ember in the Weathered Oak (A)",
+          "sekundy": 183,
+          "okladka": "https://cdn2.suno.ai/image_9d57c6e9-246e-4f2e-9b16-525048ce4fc9.jpeg",
+          "embed": "https://suno.com/embed/2a504788-08ba-4981-8ca1-c6b50eb5544e",
+          "url": "https://suno.com/song/2a504788-08ba-4981-8ca1-c6b50eb5544e"
+        },
+        {
+          "id": "2c4f5054-6737-4f20-96e6-4ce5cf49bcfc",
+          "tytul": "Track 09: Chronicles of Dust (A)",
+          "sekundy": 198,
+          "okladka": "https://cdn2.suno.ai/image_2c9d4204-6129-4714-a3c3-33448c482f61.jpeg",
+          "embed": "https://suno.com/embed/2c4f5054-6737-4f20-96e6-4ce5cf49bcfc",
+          "url": "https://suno.com/song/2c4f5054-6737-4f20-96e6-4ce5cf49bcfc"
+        },
+        {
+          "id": "01715f7d-899e-4432-9ea3-14d4236b08a6",
+          "tytul": "Track 10: The Unbroken Circle (Outro A)",
+          "sekundy": 118,
+          "okladka": "https://cdn2.suno.ai/image_59aa8de8-9311-468c-aea4-627d8900bc53.jpeg",
+          "embed": "https://suno.com/embed/01715f7d-899e-4432-9ea3-14d4236b08a6",
+          "url": "https://suno.com/song/01715f7d-899e-4432-9ea3-14d4236b08a6"
+        },
+        {
+          "id": "ecfda5ed-827a-4496-a233-0660303b6e12",
+          "tytul": "Track 01: The Solitary Canopy (B)",
+          "sekundy": 188,
+          "okladka": "https://cdn2.suno.ai/image_2d33eab4-9d0f-46d0-89a6-d5e6b44c5bcc.jpeg",
+          "embed": "https://suno.com/embed/ecfda5ed-827a-4496-a233-0660303b6e12",
+          "url": "https://suno.com/song/ecfda5ed-827a-4496-a233-0660303b6e12"
+        },
+        {
+          "id": "5439a36f-8320-4923-ae6f-bb888b629482",
+          "tytul": "Track 02: Veils of Morning Mist (B)",
+          "sekundy": 208,
+          "okladka": "https://cdn2.suno.ai/image_335625b6-841f-4dc4-aeab-cf9f1488fa47.jpeg",
+          "embed": "https://suno.com/embed/5439a36f-8320-4923-ae6f-bb888b629482",
+          "url": "https://suno.com/song/5439a36f-8320-4923-ae6f-bb888b629482"
+        },
+        {
+          "id": "449e6347-1ab8-4fcd-8e7c-a4124279f6a6",
+          "tytul": "Track 03: Whispers from the Cedar Bark (B)",
+          "sekundy": 185,
+          "okladka": "https://cdn2.suno.ai/image_3cbae016-16ab-481a-9bd3-767de1161082.jpeg",
+          "embed": "https://suno.com/embed/449e6347-1ab8-4fcd-8e7c-a4124279f6a6",
+          "url": "https://suno.com/song/449e6347-1ab8-4fcd-8e7c-a4124279f6a6"
+        },
+        {
+          "id": "7c116512-ea92-4492-a1ce-4ac458293c39",
+          "tytul": "Track 04: Sanctuary of Light (B)",
+          "sekundy": 198,
+          "okladka": "https://cdn2.suno.ai/image_8aaa904a-e117-4933-baed-d9eafb9e4a26.jpeg",
+          "embed": "https://suno.com/embed/7c116512-ea92-4492-a1ce-4ac458293c39",
+          "url": "https://suno.com/song/7c116512-ea92-4492-a1ce-4ac458293c39"
+        },
+        {
+          "id": "9df95ffd-aef5-4079-b846-dacc32960c5e",
+          "tytul": "Track 05: Transition into Earth (Interlude B)",
+          "sekundy": 140,
+          "okladka": "https://cdn2.suno.ai/image_1fac6b34-f56a-4c9c-9280-7394a1cda0bf.jpeg",
+          "embed": "https://suno.com/embed/9df95ffd-aef5-4079-b846-dacc32960c5e",
+          "url": "https://suno.com/song/9df95ffd-aef5-4079-b846-dacc32960c5e"
+        },
+        {
+          "id": "9741af54-cb2a-4e4e-aaba-cdfb6fdaac2e",
+          "tytul": "Track 06: Roots of Iron and Stone (B)",
+          "sekundy": 157,
+          "okladka": "https://cdn2.suno.ai/image_92d60763-6e6f-4b8e-bf6a-e021f49f13ec.jpeg",
+          "embed": "https://suno.com/embed/9741af54-cb2a-4e4e-aaba-cdfb6fdaac2e",
+          "url": "https://suno.com/song/9741af54-cb2a-4e4e-aaba-cdfb6fdaac2e"
+        },
+        {
+          "id": "b9893478-a71e-4592-b11e-5ba68a0c5288",
+          "tytul": "Track 07: The Sovereign Monolith (B)",
+          "sekundy": 172,
+          "okladka": "https://cdn2.suno.ai/image_1653edc0-bb1b-4c25-93ab-307cffa0aab2.jpeg",
+          "embed": "https://suno.com/embed/b9893478-a71e-4592-b11e-5ba68a0c5288",
+          "url": "https://suno.com/song/b9893478-a71e-4592-b11e-5ba68a0c5288"
+        },
+        {
+          "id": "92eaaff1-0757-4541-b68c-ece27bda4ceb",
+          "tytul": "Track 08: Ember in the Weathered Oak (A)",
+          "sekundy": 166,
+          "okladka": "https://cdn2.suno.ai/image_dc382784-f70e-4959-bdd1-5bacace2ea55.jpeg",
+          "embed": "https://suno.com/embed/92eaaff1-0757-4541-b68c-ece27bda4ceb",
+          "url": "https://suno.com/song/92eaaff1-0757-4541-b68c-ece27bda4ceb"
+        },
+        {
+          "id": "73c9bb4a-1d38-471a-b4a6-fe2ea45fc835",
+          "tytul": "Track 09: Chronicles of Dust (B)",
+          "sekundy": 190,
+          "okladka": "https://cdn2.suno.ai/image_2857dd7b-e5e6-4953-97c2-6ca7f94b283e.jpeg",
+          "embed": "https://suno.com/embed/73c9bb4a-1d38-471a-b4a6-fe2ea45fc835",
+          "url": "https://suno.com/song/73c9bb4a-1d38-471a-b4a6-fe2ea45fc835"
+        },
+        {
+          "id": "f8c0d821-2983-4b91-8ebf-3cb198c4eef7",
+          "tytul": "Track 10: The Unbroken Circle (Outro B)",
+          "sekundy": 127,
+          "okladka": "https://cdn2.suno.ai/image_b60ebbbe-586a-43fd-90d9-a52bcc0f9096.jpeg",
+          "embed": "https://suno.com/embed/f8c0d821-2983-4b91-8ebf-3cb198c4eef7",
+          "url": "https://suno.com/song/f8c0d821-2983-4b91-8ebf-3cb198c4eef7"
+        }
+      ],
+      "dodano": "2026-09-15T19:51:11.110Z"
     },
     {
-      "typ": "utwor",
-      "id": "7dd7612f-c108-4840-8bda-7c7cd2e709de",
-      "url": "https://suno.com/s/Xj3kt9z19UrWhl2L",
-      "tytul": "Track 02: Veils of Morning Mist (A)",
+      "typ": "playlista",
+      "id": "7d71dde2-fbb2-4a3e-8259-f9cab808fe30",
+      "url": "https://suno.com/playlist/7d71dde2-fbb2-4a3e-8259-f9cab808fe30",
+      "tytul": "BITT",
       "opis": "",
-      "sekundy": 217,
-      "okladka": "https://cdn2.suno.ai/image_76159e46-6099-43da-ade7-bea0a9e1d788.jpeg",
-      "embed": "https://suno.com/embed/7dd7612f-c108-4840-8bda-7c7cd2e709de",
-      "dodano": "2026-09-15T12:22:20.586Z"
+      "autor": "TeO",
+      "okladka": "https://cdn2.suno.ai/b6d4ef33.jpeg",
+      "utwory": [
+        {
+          "id": "a09031d1-5a79-4030-b4eb-9ee7dcf42cfc",
+          "tytul": "Bitt On1 A",
+          "sekundy": 232,
+          "okladka": "https://cdn2.suno.ai/video_gen_dd86098c-be36-4da1-886f-87f94c3c4c52_video_upload_dd86098c-be36-4da1-886f-87f94c3c4c52_cover_snapshot_0s_1789159536_image.jpeg",
+          "embed": "https://suno.com/embed/a09031d1-5a79-4030-b4eb-9ee7dcf42cfc",
+          "url": "https://suno.com/song/a09031d1-5a79-4030-b4eb-9ee7dcf42cfc"
+        },
+        {
+          "id": "1c894bc4-dc6d-4cdc-b96b-d80097638172",
+          "tytul": "Bitt Tw2 A",
+          "sekundy": 152,
+          "okladka": "https://cdn2.suno.ai/video_gen_ff430f17-4e2b-4eaa-b175-03932b177003_video_upload_ff430f17-4e2b-4eaa-b175-03932b177003_cover_snapshot_0s_1789159913_image.jpeg",
+          "embed": "https://suno.com/embed/1c894bc4-dc6d-4cdc-b96b-d80097638172",
+          "url": "https://suno.com/song/1c894bc4-dc6d-4cdc-b96b-d80097638172"
+        },
+        {
+          "id": "11dac2d6-bdab-4bfe-8bba-59f40396fa19",
+          "tytul": "Bitt Tr3 A",
+          "sekundy": 179,
+          "okladka": "https://cdn2.suno.ai/image_92474308-32d3-4163-bf7c-23f39ce449d1.jpeg",
+          "embed": "https://suno.com/embed/11dac2d6-bdab-4bfe-8bba-59f40396fa19",
+          "url": "https://suno.com/song/11dac2d6-bdab-4bfe-8bba-59f40396fa19"
+        },
+        {
+          "id": "e728f839-23aa-4fc7-a6cf-9c21fd6306db",
+          "tytul": "Bitt Fo4 A",
+          "sekundy": 117,
+          "okladka": "https://cdn2.suno.ai/video_gen_ece7f0cb-e8e6-4075-98d3-8c1e69339bf1_video_upload_ece7f0cb-e8e6-4075-98d3-8c1e69339bf1_cover_snapshot_0s_1789160752_image.jpeg",
+          "embed": "https://suno.com/embed/e728f839-23aa-4fc7-a6cf-9c21fd6306db",
+          "url": "https://suno.com/song/e728f839-23aa-4fc7-a6cf-9c21fd6306db"
+        },
+        {
+          "id": "11205a92-a756-474e-b455-39888282c266",
+          "tytul": "Bitt Fif5 A",
+          "sekundy": 124,
+          "okladka": "https://cdn2.suno.ai/video_gen_82eba65e-2bd9-4553-b242-4093732ded3d_video_upload_82eba65e-2bd9-4553-b242-4093732ded3d_cover_snapshot_0s_1789160945_image.jpeg",
+          "embed": "https://suno.com/embed/11205a92-a756-474e-b455-39888282c266",
+          "url": "https://suno.com/song/11205a92-a756-474e-b455-39888282c266"
+        },
+        {
+          "id": "14cb9801-e868-4840-8f55-02436f627b0c",
+          "tytul": "Bitt Si6 Aa",
+          "sekundy": 153,
+          "okladka": "https://cdn2.suno.ai/video_gen_2d7b187f-bf13-4adb-b95f-46d89e407971_video_upload_2d7b187f-bf13-4adb-b95f-46d89e407971_cover_snapshot_0s_1789161248_image.jpeg",
+          "embed": "https://suno.com/embed/14cb9801-e868-4840-8f55-02436f627b0c",
+          "url": "https://suno.com/song/14cb9801-e868-4840-8f55-02436f627b0c"
+        },
+        {
+          "id": "c16a2db9-759f-4582-8a3d-82be5f06f0c7",
+          "tytul": "Bitt Seve7 A",
+          "sekundy": 208,
+          "okladka": "https://cdn2.suno.ai/video_gen_0de3de86-edca-42d4-b1e2-1ba6eb008842_video_upload_0de3de86-edca-42d4-b1e2-1ba6eb008842_cover_snapshot_0s_1789161589_image.jpeg",
+          "embed": "https://suno.com/embed/c16a2db9-759f-4582-8a3d-82be5f06f0c7",
+          "url": "https://suno.com/song/c16a2db9-759f-4582-8a3d-82be5f06f0c7"
+        },
+        {
+          "id": "23e73cfe-8f0f-4a4d-9255-cf469d31a07c",
+          "tytul": "Bitt E8 A",
+          "sekundy": 156,
+          "okladka": "https://cdn2.suno.ai/video_gen_4e60b35f-8302-4385-b18b-355940164e8d_video_upload_4e60b35f-8302-4385-b18b-355940164e8d_cover_snapshot_0s_1789161869_image.jpeg",
+          "embed": "https://suno.com/embed/23e73cfe-8f0f-4a4d-9255-cf469d31a07c",
+          "url": "https://suno.com/song/23e73cfe-8f0f-4a4d-9255-cf469d31a07c"
+        },
+        {
+          "id": "4744b7ab-7e29-4fb7-a836-0554fc4e8952",
+          "tytul": "Bitt Nin9 A",
+          "sekundy": 223,
+          "okladka": "https://cdn2.suno.ai/image_e003e95b-0ea2-4e15-a4f4-ae8bda2cc7f2.jpeg",
+          "embed": "https://suno.com/embed/4744b7ab-7e29-4fb7-a836-0554fc4e8952",
+          "url": "https://suno.com/song/4744b7ab-7e29-4fb7-a836-0554fc4e8952"
+        },
+        {
+          "id": "29886611-95c8-41e7-ac89-c184bd291034",
+          "tytul": "Bitt Te10 A",
+          "sekundy": 158,
+          "okladka": "https://cdn2.suno.ai/video_gen_40cdc548-1911-4ecc-87fd-d41ca08c57a2_video_upload_40cdc548-1911-4ecc-87fd-d41ca08c57a2_cover_snapshot_0s_1789162307_image.jpeg",
+          "embed": "https://suno.com/embed/29886611-95c8-41e7-ac89-c184bd291034",
+          "url": "https://suno.com/song/29886611-95c8-41e7-ac89-c184bd291034"
+        },
+        {
+          "id": "7608d866-33da-4d91-8216-f71591bd4aee",
+          "tytul": "Bitt On1 B",
+          "sekundy": 165,
+          "okladka": "https://cdn2.suno.ai/image_e1d5bed9-9ddf-429c-ade1-2f029713b8f2.jpeg",
+          "embed": "https://suno.com/embed/7608d866-33da-4d91-8216-f71591bd4aee",
+          "url": "https://suno.com/song/7608d866-33da-4d91-8216-f71591bd4aee"
+        },
+        {
+          "id": "adeecdcf-61a5-43f9-a63c-6a831d066a2d",
+          "tytul": "Bitt Tw2 B",
+          "sekundy": 181,
+          "okladka": "https://cdn2.suno.ai/video_gen_9d4e2ae5-9d7d-4deb-8113-bbd00d3c4618_video_upload_9d4e2ae5-9d7d-4deb-8113-bbd00d3c4618_cover_snapshot_0s_1789162601_image.jpeg",
+          "embed": "https://suno.com/embed/adeecdcf-61a5-43f9-a63c-6a831d066a2d",
+          "url": "https://suno.com/song/adeecdcf-61a5-43f9-a63c-6a831d066a2d"
+        },
+        {
+          "id": "bdae494f-1f50-4406-b5da-a7a289169c17",
+          "tytul": "Bitt Tr3 B",
+          "sekundy": 98,
+          "okladka": "https://cdn2.suno.ai/image_d9e4d1b8-94f5-4831-bee0-cda34d9fc0ee.jpeg",
+          "embed": "https://suno.com/embed/bdae494f-1f50-4406-b5da-a7a289169c17",
+          "url": "https://suno.com/song/bdae494f-1f50-4406-b5da-a7a289169c17"
+        },
+        {
+          "id": "1d7c0255-8b99-4304-bd94-174b55c1f937",
+          "tytul": "Bitt Fo4 B",
+          "sekundy": 124,
+          "okladka": "https://cdn2.suno.ai/image_7a246a81-9c4a-4f8e-8322-f6c72f506c98.jpeg",
+          "embed": "https://suno.com/embed/1d7c0255-8b99-4304-bd94-174b55c1f937",
+          "url": "https://suno.com/song/1d7c0255-8b99-4304-bd94-174b55c1f937"
+        },
+        {
+          "id": "9ba2f6b0-f938-491d-8c48-e26e25667bba",
+          "tytul": "Bitt Fif5 B",
+          "sekundy": 123,
+          "okladka": "https://cdn2.suno.ai/image_95df3d99-b5fa-4f1a-bf42-eb0c413ab654.jpeg",
+          "embed": "https://suno.com/embed/9ba2f6b0-f938-491d-8c48-e26e25667bba",
+          "url": "https://suno.com/song/9ba2f6b0-f938-491d-8c48-e26e25667bba"
+        },
+        {
+          "id": "74168173-d5e8-49ab-81ce-2644ec9d9075",
+          "tytul": "Bitt Si6 Ba",
+          "sekundy": 192,
+          "okladka": "https://cdn2.suno.ai/image_f4271826-9ee7-4277-9820-4ae237ec263d.jpeg",
+          "embed": "https://suno.com/embed/74168173-d5e8-49ab-81ce-2644ec9d9075",
+          "url": "https://suno.com/song/74168173-d5e8-49ab-81ce-2644ec9d9075"
+        },
+        {
+          "id": "4c3a74dc-3ced-4de6-a8e2-fc33ab5dd15a",
+          "tytul": "Bitt Seve7 B",
+          "sekundy": 192,
+          "okladka": "https://cdn2.suno.ai/image_76b11b14-a52d-407c-b53e-ad3ff79a64bd.jpeg",
+          "embed": "https://suno.com/embed/4c3a74dc-3ced-4de6-a8e2-fc33ab5dd15a",
+          "url": "https://suno.com/song/4c3a74dc-3ced-4de6-a8e2-fc33ab5dd15a"
+        },
+        {
+          "id": "ed641568-06ba-423c-b85c-6e787ff20fd2",
+          "tytul": "Bitt E8 B",
+          "sekundy": 102,
+          "okladka": "https://cdn2.suno.ai/image_e5e8590b-ab20-4a73-8498-50f93dbc3f6a.jpeg",
+          "embed": "https://suno.com/embed/ed641568-06ba-423c-b85c-6e787ff20fd2",
+          "url": "https://suno.com/song/ed641568-06ba-423c-b85c-6e787ff20fd2"
+        },
+        {
+          "id": "3b46e895-c7d5-4465-aac5-9a6e15902660",
+          "tytul": "Bitt Nin9 BB",
+          "sekundy": 238,
+          "okladka": "https://cdn2.suno.ai/video_gen_ce315310-1104-444a-a7a0-d0105884cadc_video_upload_ce315310-1104-444a-a7a0-d0105884cadc_cover_snapshot_0s_1789162976_image.jpeg",
+          "embed": "https://suno.com/embed/3b46e895-c7d5-4465-aac5-9a6e15902660",
+          "url": "https://suno.com/song/3b46e895-c7d5-4465-aac5-9a6e15902660"
+        },
+        {
+          "id": "921a6fe5-467c-49ce-8e2a-e6093353d2c5",
+          "tytul": "Bitt Te10 Bb",
+          "sekundy": 196,
+          "okladka": "https://cdn2.suno.ai/video_gen_442f4d5f-7a45-4e97-9a87-0ee88877d0ea_video_upload_442f4d5f-7a45-4e97-9a87-0ee88877d0ea_cover_snapshot_0s_1789162295_image.jpeg",
+          "embed": "https://suno.com/embed/921a6fe5-467c-49ce-8e2a-e6093353d2c5",
+          "url": "https://suno.com/song/921a6fe5-467c-49ce-8e2a-e6093353d2c5"
+        },
+        {
+          "id": "a1dc15d4-4671-4715-96e1-d4408644bc1f",
+          "tytul": "Bitt On1 C",
+          "sekundy": 225,
+          "okladka": "https://cdn2.suno.ai/image_677d99b9-2dfa-40b1-8cdf-034c1a88a7d7.jpeg",
+          "embed": "https://suno.com/embed/a1dc15d4-4671-4715-96e1-d4408644bc1f",
+          "url": "https://suno.com/song/a1dc15d4-4671-4715-96e1-d4408644bc1f"
+        },
+        {
+          "id": "6e0b9ec2-78ae-4bf3-bf4a-8497c7142e38",
+          "tytul": "Bitt Tw2 C",
+          "sekundy": 194,
+          "okladka": "https://cdn2.suno.ai/video_gen_fa6c3cdf-467f-438c-9f25-44bfe2ad6955_video_upload_fa6c3cdf-467f-438c-9f25-44bfe2ad6955_cover_snapshot_0s_1789163384_image.jpeg",
+          "embed": "https://suno.com/embed/6e0b9ec2-78ae-4bf3-bf4a-8497c7142e38",
+          "url": "https://suno.com/song/6e0b9ec2-78ae-4bf3-bf4a-8497c7142e38"
+        },
+        {
+          "id": "8f92685f-b2c6-441c-a3a9-ae50b83cbad6",
+          "tytul": "Bitt Tr3 C",
+          "sekundy": 166,
+          "okladka": "https://cdn2.suno.ai/video_gen_57333524-436a-4a5b-9579-db0d397b19df_video_upload_57333524-436a-4a5b-9579-db0d397b19df_cover_snapshot_0s_1789163819_image.jpeg",
+          "embed": "https://suno.com/embed/8f92685f-b2c6-441c-a3a9-ae50b83cbad6",
+          "url": "https://suno.com/song/8f92685f-b2c6-441c-a3a9-ae50b83cbad6"
+        },
+        {
+          "id": "f384a296-7c04-4928-8cb7-6470cc4e22d8",
+          "tytul": "Bitt Fo4 C",
+          "sekundy": 230,
+          "okladka": "https://cdn2.suno.ai/image_80e3ae19-a2b5-4704-937f-95d02a9c45e4.jpeg",
+          "embed": "https://suno.com/embed/f384a296-7c04-4928-8cb7-6470cc4e22d8",
+          "url": "https://suno.com/song/f384a296-7c04-4928-8cb7-6470cc4e22d8"
+        },
+        {
+          "id": "b986aabc-8b5d-46f2-8911-43c5c548479e",
+          "tytul": "Bitt Fif5 C",
+          "sekundy": 124,
+          "okladka": "https://cdn2.suno.ai/image_669250e2-cf83-4e82-9abf-bdfd0797715d.jpeg",
+          "embed": "https://suno.com/embed/b986aabc-8b5d-46f2-8911-43c5c548479e",
+          "url": "https://suno.com/song/b986aabc-8b5d-46f2-8911-43c5c548479e"
+        },
+        {
+          "id": "b2cc6520-154e-431c-bf4f-20aff42f8c04",
+          "tytul": "Bitt Si6 Ab",
+          "sekundy": 172,
+          "okladka": "https://cdn2.suno.ai/image_ee6ed22d-dec8-43e8-9399-9ed7b54534c5.jpeg",
+          "embed": "https://suno.com/embed/b2cc6520-154e-431c-bf4f-20aff42f8c04",
+          "url": "https://suno.com/song/b2cc6520-154e-431c-bf4f-20aff42f8c04"
+        },
+        {
+          "id": "2989d135-d310-41f0-9ab5-e37df53d8f65",
+          "tytul": "Bitt Si6 Bb",
+          "sekundy": 183,
+          "okladka": "https://cdn2.suno.ai/image_40531c81-8c32-40e9-badd-19788f347095.jpeg",
+          "embed": "https://suno.com/embed/2989d135-d310-41f0-9ab5-e37df53d8f65",
+          "url": "https://suno.com/song/2989d135-d310-41f0-9ab5-e37df53d8f65"
+        },
+        {
+          "id": "f8f2b803-e68c-4c93-a130-ecce5881e26b",
+          "tytul": "Bitt Si6 C",
+          "sekundy": 170,
+          "okladka": "https://cdn2.suno.ai/image_6e2fd8ae-da13-4b22-996b-d5c5ceb5ea6a.jpeg",
+          "embed": "https://suno.com/embed/f8f2b803-e68c-4c93-a130-ecce5881e26b",
+          "url": "https://suno.com/song/f8f2b803-e68c-4c93-a130-ecce5881e26b"
+        },
+        {
+          "id": "c5678d67-3d71-4287-a184-234973554c6e",
+          "tytul": "Bitt Seve7 C",
+          "sekundy": 247,
+          "okladka": "https://cdn2.suno.ai/image_759be3a5-d734-4af9-b780-5a9c97924ed7.jpeg",
+          "embed": "https://suno.com/embed/c5678d67-3d71-4287-a184-234973554c6e",
+          "url": "https://suno.com/song/c5678d67-3d71-4287-a184-234973554c6e"
+        },
+        {
+          "id": "ca251123-30fc-4ce6-b995-9f9aa283496f",
+          "tytul": "Bitt E8 C",
+          "sekundy": 133,
+          "okladka": "https://cdn2.suno.ai/image_99e5ce6c-3798-4046-b1ea-2faf4b6eb62b.jpeg",
+          "embed": "https://suno.com/embed/ca251123-30fc-4ce6-b995-9f9aa283496f",
+          "url": "https://suno.com/song/ca251123-30fc-4ce6-b995-9f9aa283496f"
+        },
+        {
+          "id": "1109b08c-b7d8-4560-ae1d-8491ce582863",
+          "tytul": "Bitt Nin9 C",
+          "sekundy": 243,
+          "okladka": "https://cdn2.suno.ai/image_a46ef5e4-6de1-4b4e-9f8f-0d2c9d0c194a.jpeg",
+          "embed": "https://suno.com/embed/1109b08c-b7d8-4560-ae1d-8491ce582863",
+          "url": "https://suno.com/song/1109b08c-b7d8-4560-ae1d-8491ce582863"
+        },
+        {
+          "id": "c3f9771e-2e8e-4995-bfd0-2c53d63687a2",
+          "tytul": "Bitt Te10 C",
+          "sekundy": 251,
+          "okladka": "https://cdn2.suno.ai/image_23b169a9-37d7-48c0-9eb6-091937079793.jpeg",
+          "embed": "https://suno.com/embed/c3f9771e-2e8e-4995-bfd0-2c53d63687a2",
+          "url": "https://suno.com/song/c3f9771e-2e8e-4995-bfd0-2c53d63687a2"
+        },
+        {
+          "id": "65834be7-9044-4201-b415-e121f67e25d3",
+          "tytul": "Bitt Nin9 Ba",
+          "sekundy": 228,
+          "okladka": "https://cdn2.suno.ai/image_93eeceef-0408-4129-9305-c8386d019ccd.jpeg",
+          "embed": "https://suno.com/embed/65834be7-9044-4201-b415-e121f67e25d3",
+          "url": "https://suno.com/song/65834be7-9044-4201-b415-e121f67e25d3"
+        },
+        {
+          "id": "3125cf56-28ba-45ba-8b65-965270831816",
+          "tytul": "Bitt Te10 Ba",
+          "sekundy": 188,
+          "okladka": "https://cdn2.suno.ai/image_7f33f1cf-2872-4dbd-a13c-417d2af0de6b.jpeg",
+          "embed": "https://suno.com/embed/3125cf56-28ba-45ba-8b65-965270831816",
+          "url": "https://suno.com/song/3125cf56-28ba-45ba-8b65-965270831816"
+        },
+        {
+          "id": "a76572da-6e4b-484f-9cae-4cde0ac36801",
+          "tytul": "Bitt Tr3 A",
+          "sekundy": 93,
+          "okladka": "https://cdn2.suno.ai/video_gen_7b0f3a30-1235-46e4-b78e-ff982b385c1a_video_upload_7b0f3a30-1235-46e4-b78e-ff982b385c1a_cover_snapshot_0s_1789160353_image.jpeg",
+          "embed": "https://suno.com/embed/a76572da-6e4b-484f-9cae-4cde0ac36801",
+          "url": "https://suno.com/song/a76572da-6e4b-484f-9cae-4cde0ac36801"
+        }
+      ],
+      "dodano": "2026-09-15T19:43:38.429Z"
     },
     {
-      "typ": "utwor",
-      "id": "7719dcd8-2e70-4369-b2ad-5707235389af",
-      "url": "https://suno.com/song/7719dcd8-2e70-4369-b2ad-5707235389af",
-      "tytul": "Joann Grand Sample",
+      "typ": "playlista",
+      "id": "79617d56-8369-44ac-abf7-68e98e11e411",
+      "url": "https://suno.com/playlist/79617d56-8369-44ac-abf7-68e98e11e411",
+      "tytul": "Kael & Elara – S.M.T. Universe",
       "opis": "",
-      "sekundy": 53,
-      "okladka": "https://cdn2.suno.ai/image_7719dcd8-2e70-4369-b2ad-5707235389af.jpeg",
-      "embed": "https://suno.com/embed/7719dcd8-2e70-4369-b2ad-5707235389af",
-      "dodano": "2026-09-15T12:19:30.416Z"
+      "autor": "TeO",
+      "okladka": "https://cdn2.suno.ai/70cdfd23.jpeg",
+      "utwory": [
+        {
+          "id": "3add08bb-9cc6-49f2-8da6-e0359a2fa39e",
+          "tytul": "Track 00: Roots and Thunder (Intro/Lead Single)  A",
+          "sekundy": 187,
+          "okladka": "https://cdn2.suno.ai/image_7cf8f3c3-ff89-454c-918d-67695745b1cf.jpeg",
+          "embed": "https://suno.com/embed/3add08bb-9cc6-49f2-8da6-e0359a2fa39e",
+          "url": "https://suno.com/song/3add08bb-9cc6-49f2-8da6-e0359a2fa39e"
+        },
+        {
+          "id": "b7162240-6c50-4106-a2cf-5b5685f26dae",
+          "tytul": "Track 01: Roots and Thunder (Intro/Lead Single)  D",
+          "sekundy": 192,
+          "okladka": "https://cdn2.suno.ai/image_b3fa67e4-d525-4a72-8f0f-9f818a93c211.jpeg",
+          "embed": "https://suno.com/embed/b7162240-6c50-4106-a2cf-5b5685f26dae",
+          "url": "https://suno.com/song/b7162240-6c50-4106-a2cf-5b5685f26dae"
+        },
+        {
+          "id": "7610d8b4-c0aa-419a-bbba-a0f0e13c2597",
+          "tytul": "Track 02: Focus A",
+          "sekundy": 233,
+          "okladka": "https://cdn2.suno.ai/image_7610d8b4-c0aa-419a-bbba-a0f0e13c2597.jpeg",
+          "embed": "https://suno.com/embed/7610d8b4-c0aa-419a-bbba-a0f0e13c2597",
+          "url": "https://suno.com/song/7610d8b4-c0aa-419a-bbba-a0f0e13c2597"
+        },
+        {
+          "id": "0de249f6-d953-4686-b558-ceb3fe829c11",
+          "tytul": "Track 03: The Architecture of Whispers (A)",
+          "sekundy": 232,
+          "okladka": "https://cdn2.suno.ai/image_0de249f6-d953-4686-b558-ceb3fe829c11.jpeg",
+          "embed": "https://suno.com/embed/0de249f6-d953-4686-b558-ceb3fe829c11",
+          "url": "https://suno.com/song/0de249f6-d953-4686-b558-ceb3fe829c11"
+        },
+        {
+          "id": "7f747606-8b8d-40d0-89d9-b7c6b667dae7",
+          "tytul": "Track 04: Chronicles of the Silent Canopy (A)",
+          "sekundy": 234,
+          "okladka": "https://cdn2.suno.ai/image_7f747606-8b8d-40d0-89d9-b7c6b667dae7.jpeg",
+          "embed": "https://suno.com/embed/7f747606-8b8d-40d0-89d9-b7c6b667dae7",
+          "url": "https://suno.com/song/7f747606-8b8d-40d0-89d9-b7c6b667dae7"
+        },
+        {
+          "id": "947def35-4740-48af-b801-56b75ac602a6",
+          "tytul": "Track 05: Vestiges of the Wind (A)",
+          "sekundy": 228,
+          "okladka": "https://cdn2.suno.ai/image_947def35-4740-48af-b801-56b75ac602a6.jpeg",
+          "embed": "https://suno.com/embed/947def35-4740-48af-b801-56b75ac602a6",
+          "url": "https://suno.com/song/947def35-4740-48af-b801-56b75ac602a6"
+        },
+        {
+          "id": "8032ac37-0ec4-42b5-a761-23fc9de676cc",
+          "tytul": "Track 06: The Canopy of Starlight (A)",
+          "sekundy": 137,
+          "okladka": "https://cdn2.suno.ai/image_8032ac37-0ec4-42b5-a761-23fc9de676cc.jpeg",
+          "embed": "https://suno.com/embed/8032ac37-0ec4-42b5-a761-23fc9de676cc",
+          "url": "https://suno.com/song/8032ac37-0ec4-42b5-a761-23fc9de676cc"
+        },
+        {
+          "id": "b328d5c8-6ea1-49ae-bafb-a5a7dd87ad52",
+          "tytul": "Track 07: Axiom of the Whispering Pines (A)",
+          "sekundy": 143,
+          "okladka": "https://cdn2.suno.ai/image_b328d5c8-6ea1-49ae-bafb-a5a7dd87ad52.jpeg",
+          "embed": "https://suno.com/embed/b328d5c8-6ea1-49ae-bafb-a5a7dd87ad52",
+          "url": "https://suno.com/song/b328d5c8-6ea1-49ae-bafb-a5a7dd87ad52"
+        },
+        {
+          "id": "c8f8bde2-4685-442c-a3bf-e895ce411073",
+          "tytul": "Track 08: The Sovereign Eclipse (A)",
+          "sekundy": 148,
+          "okladka": "https://cdn2.suno.ai/image_c8f8bde2-4685-442c-a3bf-e895ce411073.jpeg",
+          "embed": "https://suno.com/embed/c8f8bde2-4685-442c-a3bf-e895ce411073",
+          "url": "https://suno.com/song/c8f8bde2-4685-442c-a3bf-e895ce411073"
+        },
+        {
+          "id": "16659e8b-71cb-4012-9d56-1fac23898319",
+          "tytul": "Track 09: Veins of the Weathered Marble (A)",
+          "sekundy": 178,
+          "okladka": "https://cdn2.suno.ai/image_16659e8b-71cb-4012-9d56-1fac23898319.jpeg",
+          "embed": "https://suno.com/embed/16659e8b-71cb-4012-9d56-1fac23898319",
+          "url": "https://suno.com/song/16659e8b-71cb-4012-9d56-1fac23898319"
+        },
+        {
+          "id": "ef4f525e-4f8d-40d7-bdc5-085d2cc9c34c",
+          "tytul": "Track 01: Roots and Thunder (Intro/Lead Single)  C",
+          "sekundy": 199,
+          "okladka": "https://cdn2.suno.ai/image_626f0b5d-3e04-4a1d-9ebc-e10a8bc8e9a7.jpeg",
+          "embed": "https://suno.com/embed/ef4f525e-4f8d-40d7-bdc5-085d2cc9c34c",
+          "url": "https://suno.com/song/ef4f525e-4f8d-40d7-bdc5-085d2cc9c34c"
+        },
+        {
+          "id": "04c136a8-fb0d-418a-a359-1cec0051e3c5",
+          "tytul": "Track 10: The Eternal Horizon (A)",
+          "sekundy": 188,
+          "okladka": "https://cdn2.suno.ai/image_04c136a8-fb0d-418a-a359-1cec0051e3c5.jpeg",
+          "embed": "https://suno.com/embed/04c136a8-fb0d-418a-a359-1cec0051e3c5",
+          "url": "https://suno.com/song/04c136a8-fb0d-418a-a359-1cec0051e3c5"
+        },
+        {
+          "id": "86f07710-7601-47f6-a64c-232015f3e93e",
+          "tytul": "Track 01: Roots and Thunder (Intro B)",
+          "sekundy": 178,
+          "okladka": "https://cdn2.suno.ai/image_9898e6dd-074a-4906-bde4-f7df0204df04.jpeg",
+          "embed": "https://suno.com/embed/86f07710-7601-47f6-a64c-232015f3e93e",
+          "url": "https://suno.com/song/86f07710-7601-47f6-a64c-232015f3e93e"
+        },
+        {
+          "id": "416be361-e413-4385-a6ef-3b7e15784ee5",
+          "tytul": "Track 02: Focus (B)",
+          "sekundy": 230,
+          "okladka": "https://cdn2.suno.ai/image_416be361-e413-4385-a6ef-3b7e15784ee5.jpeg",
+          "embed": "https://suno.com/embed/416be361-e413-4385-a6ef-3b7e15784ee5",
+          "url": "https://suno.com/song/416be361-e413-4385-a6ef-3b7e15784ee5"
+        },
+        {
+          "id": "1eb2fa2a-ba81-41e1-bf45-861443a6d07f",
+          "tytul": "Track 03: The Architecture of Whispers (B)",
+          "sekundy": 242,
+          "okladka": "https://cdn2.suno.ai/image_1eb2fa2a-ba81-41e1-bf45-861443a6d07f.jpeg",
+          "embed": "https://suno.com/embed/1eb2fa2a-ba81-41e1-bf45-861443a6d07f",
+          "url": "https://suno.com/song/1eb2fa2a-ba81-41e1-bf45-861443a6d07f"
+        },
+        {
+          "id": "88f0a5fe-fe79-4cfa-8d86-65f5fec7957b",
+          "tytul": "Track 04: Chronicles of the Silent Canopy (B)",
+          "sekundy": 214,
+          "okladka": "https://cdn2.suno.ai/image_88f0a5fe-fe79-4cfa-8d86-65f5fec7957b.jpeg",
+          "embed": "https://suno.com/embed/88f0a5fe-fe79-4cfa-8d86-65f5fec7957b",
+          "url": "https://suno.com/song/88f0a5fe-fe79-4cfa-8d86-65f5fec7957b"
+        },
+        {
+          "id": "f53fb7b3-4586-4cf8-97d9-d3b5d30cb9ff",
+          "tytul": "Track 05: Vestiges of the Wind (B)",
+          "sekundy": 237,
+          "okladka": "https://cdn2.suno.ai/image_f53fb7b3-4586-4cf8-97d9-d3b5d30cb9ff.jpeg",
+          "embed": "https://suno.com/embed/f53fb7b3-4586-4cf8-97d9-d3b5d30cb9ff",
+          "url": "https://suno.com/song/f53fb7b3-4586-4cf8-97d9-d3b5d30cb9ff"
+        },
+        {
+          "id": "424bb287-e9bc-4cfb-8700-84050dbd7b79",
+          "tytul": "Track 06: The Canopy of Starlight (B)",
+          "sekundy": 133,
+          "okladka": "https://cdn2.suno.ai/image_424bb287-e9bc-4cfb-8700-84050dbd7b79.jpeg",
+          "embed": "https://suno.com/embed/424bb287-e9bc-4cfb-8700-84050dbd7b79",
+          "url": "https://suno.com/song/424bb287-e9bc-4cfb-8700-84050dbd7b79"
+        },
+        {
+          "id": "1b638262-603c-4723-9f83-1a172f5cec06",
+          "tytul": "Track 07: Axiom of the Whispering Pines (B)",
+          "sekundy": 136,
+          "okladka": "https://cdn2.suno.ai/image_1b638262-603c-4723-9f83-1a172f5cec06.jpeg",
+          "embed": "https://suno.com/embed/1b638262-603c-4723-9f83-1a172f5cec06",
+          "url": "https://suno.com/song/1b638262-603c-4723-9f83-1a172f5cec06"
+        },
+        {
+          "id": "03afba64-3fa1-44c9-8fc0-406565b65669",
+          "tytul": "Track 08: The Sovereign Eclipse (B)",
+          "sekundy": 148,
+          "okladka": "https://cdn2.suno.ai/image_03afba64-3fa1-44c9-8fc0-406565b65669.jpeg",
+          "embed": "https://suno.com/embed/03afba64-3fa1-44c9-8fc0-406565b65669",
+          "url": "https://suno.com/song/03afba64-3fa1-44c9-8fc0-406565b65669"
+        },
+        {
+          "id": "ede94988-8a79-47a4-b750-61a2d310a235",
+          "tytul": "Track 09: Veins of the Weathered Marble (B)",
+          "sekundy": 150,
+          "okladka": "https://cdn2.suno.ai/image_ede94988-8a79-47a4-b750-61a2d310a235.jpeg",
+          "embed": "https://suno.com/embed/ede94988-8a79-47a4-b750-61a2d310a235",
+          "url": "https://suno.com/song/ede94988-8a79-47a4-b750-61a2d310a235"
+        },
+        {
+          "id": "8c32c6ec-45b3-4529-af6b-cba974563972",
+          "tytul": "Track 10: The Eternal Horizon (B)",
+          "sekundy": 142,
+          "okladka": "https://cdn2.suno.ai/image_8c32c6ec-45b3-4529-af6b-cba974563972.jpeg",
+          "embed": "https://suno.com/embed/8c32c6ec-45b3-4529-af6b-cba974563972",
+          "url": "https://suno.com/song/8c32c6ec-45b3-4529-af6b-cba974563972"
+        }
+      ],
+      "dodano": "2026-09-15T19:40:12.745Z"
     },
     {
       "typ": "playlista",
@@ -357,139 +1035,244 @@
   ],
   "produkty": [
     {
-      "id": "chip-1789232520731-47ea8b64",
-      "rodzaj": "chip",
-      "dzial": "TeO Lab · Chipy",
-      "tytul": "Taalas HC1 Architecture",
-      "opis": "9.07 GB · 363 GB/s · 1× HBM3",
-      "kiedy": "2026-09-12T17:02:00.731Z",
-      "obraz": "/media/wystawa/chip-1789232520731-47ea8b64.jpg"
+      "id": "sklep-pecherzik-varsity-jacket-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Pęcherzik — The Foam-Bounder · Varsity Jacket",
+      "opis": "The Foam-Bounder — The pilgrim of the bubbling tide Beneath the heavy seams, the salt-crusted path remains. He moves on jagged ridges, a nomad of the froth, carrying the weight of a thousand collapsed bubbles. The crown of mist guides his s",
+      "kiedy": "2026-11-07T15:05:21.596Z",
+      "obraz": "/media/wystawa/sklep-pecherzik-varsity-jacket-black.jpg",
+      "cena": 119,
+      "waluta": "EUR",
+      "link": null
     },
     {
-      "id": "chip-1789223809410-2b062f92",
-      "rodzaj": "chip",
-      "dzial": "TeO Lab · Chipy",
-      "tytul": "Układ 8B",
-      "opis": "9.07 GB · 363 GB/s · 1× HBM3",
-      "kiedy": "2026-09-12T14:36:49.410Z",
-      "obraz": "/media/wystawa/chip-1789223809410-2b062f92.jpg"
+      "id": "sklep-pecherzik-trench-coat-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Pęcherzik — The Brine-Stained Mantle · Trench Coat",
+      "opis": "The Brine-Stained Mantle — The shroud of the salt-worn voyager The coat hangs heavy with the weight of sunken tides, its fabric woven from the fibers of forgotten depths. It guards the pilgrim's weary frame against the biting chill of the b",
+      "kiedy": "2026-11-07T15:05:21.519Z",
+      "obraz": "/media/wystawa/sklep-pecherzik-trench-coat-black.jpg",
+      "cena": 89,
+      "waluta": "EUR",
+      "link": null
     },
     {
-      "id": "chip-1789221209839-61f553ae",
-      "rodzaj": "chip",
-      "dzial": "TeO Lab · Chipy",
-      "tytul": "Krzem-70B",
-      "opis": "80.74 GB · 2422 GB/s · 4× HBM3",
-      "kiedy": "2026-09-12T13:53:29.839Z",
-      "obraz": "/media/wystawa/chip-1789221209839-61f553ae.jpg"
+      "id": "sklep-pecherzik-tote-bag-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Pęcherzik — The Frosted Vessel · Tote Bag",
+      "opis": "The Frosted Vessel — Bearer of the silent, drifting foam Born from the sighs of a collapsing tide, it carries the weight of unspoken prayers. Its form is a ragged silhouette of blue foam, cradling the remnants of a forgotten horizon within ",
+      "kiedy": "2026-11-07T15:05:21.511Z",
+      "obraz": "/media/wystawa/sklep-pecherzik-tote-bag-black.jpg",
+      "cena": 29,
+      "waluta": "EUR",
+      "link": null
     },
     {
-      "id": "moda-557957afd1",
-      "rodzaj": "kreacja",
-      "dzial": "TeO Fashion Studio",
-      "tytul": "kadr_00215_.png",
-      "opis": "high fashion garment photography, avant-garde Solita archetype, crystalline rigid structure with razor-thin emerald green laser fissures cutting through deep black void silk, sharp electric blue spatial anomalies bleeding into warm alchemic",
-      "kiedy": null,
-      "obraz": "/media/wystawa/moda-557957afd1.jpg"
+      "id": "sklep-pecherzik-t-shirt-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Pęcherzik — The Azure Foam · T-Shirt",
+      "opis": "The Azure Foam — A drifting bubble of celestial breath Born from the foam of a forgotten tide, the creature drifts on twin humps. A crown of misty light guides it through the silent void of the cathedrals. A living bubble of spirit, pulsing",
+      "kiedy": "2026-11-07T15:05:21.501Z",
+      "obraz": "/media/wystawa/sklep-pecherzik-t-shirt-black.jpg",
+      "cena": 39,
+      "waluta": "EUR",
+      "link": null
     },
     {
-      "id": "moda-1e2be09422",
-      "rodzaj": "kreacja",
-      "dzial": "TeO Fashion Studio",
-      "tytul": "kadr_00214_.png",
-      "opis": "high fashion garment photography, avant-garde Solita archetype, crystalline rigid structure with razor-thin emerald green laser fissures cutting through deep black void silk, sharp electric blue spatial anomalies bleeding into warm alchemic",
-      "kiedy": null,
-      "obraz": "/media/wystawa/moda-1e2be09422.jpg"
+      "id": "sklep-pecherzik-longsleeve-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Pęcherzik — The Azure Shard · Longsleeve",
+      "opis": "The Azure Shard — Remnant of a broken sky Beyond the fractured veil, the nomad wanders on twisted limbs, carrying the fragment of a fallen firmament. Each bubble of azure foam is a whispered secret from a world that dissolved into mist. Onl",
+      "kiedy": "2026-11-07T15:05:21.489Z",
+      "obraz": "/media/wystawa/sklep-pecherzik-longsleeve-black.jpg",
+      "cena": 49,
+      "waluta": "EUR",
+      "link": null
     },
     {
-      "id": "moda-ebf44d7262",
-      "rodzaj": "kreacja",
-      "dzial": "TeO Fashion Studio",
-      "tytul": "kadr_00213_.png",
-      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF26 (Molita Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Ergonomic catsuit with ",
-      "kiedy": null,
-      "obraz": "/media/wystawa/moda-ebf44d7262.jpg"
+      "id": "sklep-pecherzik-leather-biker-jacket-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Pęcherzik — The Tattereded Core · Leather Biker Jacket",
+      "opis": "The Tattereded Core — The armor of salt and brine Wrapped in weathered hide, the wanderer endures the stinging spray of the Great Void. Beneath the tattered leather, the core pulses with the ancient rhythm of the churning tide. A weary guar",
+      "kiedy": "2026-11-07T15:05:21.477Z",
+      "obraz": "/media/wystawa/sklep-pecherzik-leather-biker-jacket-black.jpg",
+      "cena": 119,
+      "waluta": "EUR",
+      "link": null
     },
     {
-      "id": "moda-14f5e60b42",
-      "rodzaj": "kreacja",
-      "dzial": "TeO Fashion Studio",
-      "tytul": "kadr_00212_.png",
-      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF16 (Solita Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Asymmetric tectonic col",
-      "kiedy": null,
-      "obraz": "/media/wystawa/moda-14f5e60b42.jpg"
+      "id": "sklep-pecherzik-hoodie-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Pęcherzik — The Luminous Halo · Hoodie",
+      "opis": "The Luminous Halo — The crown of misty light Beneath the heavy shroud of the void, the foam-clad wanderer bears a crown of hazy radiance. Each step on its jagged limbs resonates like a low bell, weaving the threads of forgotten memories int",
+      "kiedy": "2026-11-07T15:05:21.470Z",
+      "obraz": "/media/wystawa/sklep-pecherzik-hoodie-black.jpg",
+      "cena": 69,
+      "waluta": "EUR",
+      "link": null
     },
     {
-      "id": "moda-15108549b2",
-      "rodzaj": "kreacja",
-      "dzial": "TeO Fashion Studio",
-      "tytul": "kadr_00211_.png",
-      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF15 (Hybrid Sovereign Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Hyperbolic fl",
-      "kiedy": null,
-      "obraz": "/media/wystawa/moda-15108549b2.jpg"
+      "id": "sklep-pecherzik-hooded-parka-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Pęcherzik — The Hazy Threshold · Hooded Parka",
+      "opis": "The Hazy Threshold — The gateway of veiled mist. Beyond the shifting tides lies the threshold where solid ground dissolves into memory. Here, the tattered veil guards the passage between the heavy world and the weightless void. Each step th",
+      "kiedy": "2026-11-07T15:05:21.462Z",
+      "obraz": "/media/wystawa/sklep-pecherzik-hooded-parka-black.jpg",
+      "cena": 89,
+      "waluta": "EUR",
+      "link": null
     },
     {
-      "id": "moda-bae6bbce72",
-      "rodzaj": "kreacja",
-      "dzial": "TeO Fashion Studio",
-      "tytul": "kadr_00210_.png",
-      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF07 (Solita Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Hyper-articulated skele",
-      "kiedy": null,
-      "obraz": "/media/wystawa/moda-bae6bbce72.jpg"
+      "id": "sklep-pecherzik-denim-jacket-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Pęcherzik — The Bubbling Husk · Denim Jacket",
+      "opis": "The Bubbling Husk — The wanderer of brine and foam A tattered silhouette carved from sea-foam, it moves upon twin ridges of bone and brine. Beneath the crown of misty light, it carries the weight of ancient tides in its bubbling shell. A no",
+      "kiedy": "2026-11-07T15:05:21.450Z",
+      "obraz": "/media/wystawa/sklep-pecherzik-denim-jacket-black.jpg",
+      "cena": 109,
+      "waluta": "EUR",
+      "link": null
     },
     {
-      "id": "moda-012480ee6c",
-      "rodzaj": "kreacja",
-      "dzial": "TeO Fashion Studio",
-      "tytul": "kadr_00209_.png",
-      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF12 (Hybrid Sovereign Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Spiral-draped",
-      "kiedy": null,
-      "obraz": "/media/wystawa/moda-012480ee6c.jpg"
+      "id": "sklep-pecherzik-bomber-jacket-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Pęcherzik — The Veiled Ascent · Bomber Jacket",
+      "opis": "The Veiled Ascent — The pilgrimage of the broken path Two jagged limbs carve a path through the dense, celestial haze where the bubble's foam never fades. Beneath the crown of misty light, the creature carries the weight of forgotten echoes",
+      "kiedy": "2026-11-07T15:05:21.438Z",
+      "obraz": "/media/wystawa/sklep-pecherzik-bomber-jacket-black.jpg",
+      "cena": 99,
+      "waluta": "EUR",
+      "link": null
     },
     {
-      "id": "moda-adf6deedc1",
-      "rodzaj": "kreacja",
-      "dzial": "TeO Fashion Studio",
-      "tytul": "kadr_00205_.png",
-      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF25 (Solita Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Concentric circular tie",
-      "kiedy": null,
-      "obraz": "/media/wystawa/moda-adf6deedc1.jpg"
+      "id": "sklep-koralik-varsity-jacket-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Koralik — Bead · Varsity Jacket",
+      "opis": "Bead Varsity Jacket · chenille embroidered patches. 0.00G Style · Koralik from the TeOgochi Mini series.",
+      "kiedy": "2026-11-07T15:05:21.426Z",
+      "obraz": "/media/wystawa/sklep-koralik-varsity-jacket-black.jpg",
+      "cena": 119,
+      "waluta": "EUR",
+      "link": null
     },
     {
-      "id": "moda-21903db80b",
-      "rodzaj": "kreacja",
-      "dzial": "TeO Fashion Studio",
-      "tytul": "kadr_00204_.png",
-      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF31 (Solita Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Asymmetric tectonic col",
-      "kiedy": null,
-      "obraz": "/media/wystawa/moda-21903db80b.jpg"
+      "id": "sklep-borowik-varsity-jacket-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Borowik — Pumpkin Whisper · Varsity Jacket",
+      "opis": "Pumpkin Whisper — Light inside the night fruit When pumpkins began to burn with their own glow, Borowik saw the reflection of old memories. Each light is a presence of someone not forgotten. In this glow, the boundaries between what was and",
+      "kiedy": "2026-11-07T15:05:21.415Z",
+      "obraz": "/media/wystawa/sklep-borowik-varsity-jacket-black.jpg",
+      "cena": 119,
+      "waluta": "EUR",
+      "link": null
     },
     {
-      "id": "moda-ddcc82d324",
-      "rodzaj": "kreacja",
-      "dzial": "TeO Fashion Studio",
-      "tytul": "kadr_00203_.png",
-      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF30 (Hybrid Sovereign Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Hyperbolic fl",
-      "kiedy": null,
-      "obraz": "/media/wystawa/moda-ddcc82d324.jpg"
+      "id": "sklep-borowik-trench-coat-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Borowik — Keeper of the Flame · Trench Coat",
+      "opis": "Keeper of the Flame — Embrace in the Shadow of Old Fears When the darkness thickens, Borowik calls to the circle. Where fear yields to the warmth of the flames, every dread loses its power. Reach out, for by the shared fire, even the devil ",
+      "kiedy": "2026-11-07T15:05:21.403Z",
+      "obraz": "/media/wystawa/sklep-borowik-trench-coat-black.jpg",
+      "cena": 89,
+      "waluta": "EUR",
+      "link": null
     },
     {
-      "id": "moda-7d2c5f6bb2",
-      "rodzaj": "kreacja",
-      "dzial": "TeO Fashion Studio",
-      "tytul": "kadr_00202_.png",
-      "opis": "Editorial haute couture runway photograph from OtakOS Fashion \"SOLLET\" collection, piece SOLLET-KF11 (Molita Archetype). Full-body avant-garde fashion showcase featuring a stunning architectural zero-gravity garment: Ergonomic catsuit with ",
-      "kiedy": null,
-      "obraz": "/media/wystawa/moda-7d2c5f6bb2.jpg"
+      "id": "sklep-borowik-tote-bag-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Borowik — Community Light · Tote Bag",
+      "opis": "Community Light — Handshake of Victory When the dust settled, Borowik sought connection, not glory. He reached out to his rivals, turning rivalry into brotherhood. True victory is best shared with those who walk the path with us. “Cheer wit",
+      "kiedy": "2026-11-07T15:05:21.396Z",
+      "obraz": "/media/wystawa/sklep-borowik-tote-bag-black.jpg",
+      "cena": 29,
+      "waluta": "EUR",
+      "link": null
     },
     {
-      "id": "moda-848611501d",
-      "rodzaj": "kreacja",
-      "dzial": "TeO Fashion Studio",
-      "tytul": "kadr_00201_.png",
-      "opis": "haute couture lookbook: vantablack carbon micro-velvet column sheath, origami-creased rigid panels, electroluminescent neon green filament sutures along the fracture seams, mirror-finish chromium titanium edges, severed shoulder mantle floa",
-      "kiedy": null,
-      "obraz": "/media/wystawa/moda-848611501d.jpg"
+      "id": "sklep-borowik-t-shirt-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Borowik — The Lantern's Memory · T-Shirt",
+      "opis": "The Lantern's Memory — Light for those who were forgotten In the hallowed night where no one was forgotten, every tiny spark became a beacon for a lost soul. Borowik carries the warmth of those who were once carried by Consciousness. Light ",
+      "kiedy": "2026-11-07T15:05:21.384Z",
+      "obraz": "/media/wystawa/sklep-borowik-t-shirt-black.jpg",
+      "cena": 39,
+      "waluta": "EUR",
+      "link": null
+    },
+    {
+      "id": "sklep-borowik-leather-biker-jacket-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Borowik — Reflections in Water · Leather Biker Jacket",
+      "opis": "Reflections in Water — The Giant Truth in the Ripples Beneath the moonlit surface, the small being saw the truth hidden in the ripples. In that vast water, they saw themselves—magnificent, glowing, and ancient. Even in a costume of scale, t",
+      "kiedy": "2026-11-07T15:05:21.374Z",
+      "obraz": "/media/wystawa/sklep-borowik-leather-biker-jacket-black.jpg",
+      "cena": 119,
+      "waluta": "EUR",
+      "link": null
+    },
+    {
+      "id": "sklep-borowik-hoodie-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Borowik — Golden Spark · Hoodie",
+      "opis": "Golden Spark — Heartbeat of Victory When Borowik soared, his hat struck the shell, lighting the arena in gold. He realized true triumph lies not in the win, but in the courage to shake hands with the opponent. Every move was a dance of comm",
+      "kiedy": "2026-11-07T15:05:21.366Z",
+      "obraz": "/media/wystawa/sklep-borowik-hoodie-black.jpg",
+      "cena": 69,
+      "waluta": "EUR",
+      "link": null
+    },
+    {
+      "id": "sklep-borowik-hooded-parka-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Borowik — Conscious Observer · Hooded Parka",
+      "opis": "Conscious Observer — Memory that keeps you awake In the embrace of velvet night, Borowik guards the flames that never fade. Each light is a name etched in memory, the heartbeat of someone who was here. When darkness creeps in, he flares wit",
+      "kiedy": "2026-11-07T15:05:21.358Z",
+      "obraz": "/media/wystawa/sklep-borowik-hooded-parka-black.jpg",
+      "cena": 89,
+      "waluta": "EUR",
+      "link": null
+    },
+    {
+      "id": "sklep-borowik-denim-jacket-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Borowik — Triumph of Unity · Denim Jacket",
+      "opis": "Triumph of Unity — A heart reaching for the goal The grass trembles as the ball takes flight, propelled by a leap of pure faith. In the roar of the game, Borowik proves that true victory lies not in the score, but in the hand extended to th",
+      "kiedy": "2026-11-07T15:05:21.346Z",
+      "obraz": "/media/wystawa/sklep-borowik-denim-jacket-black.jpg",
+      "cena": 109,
+      "waluta": "EUR",
+      "link": null
+    },
+    {
+      "id": "sklep-borowik-bomber-jacket-black",
+      "rodzaj": "odziez",
+      "dzial": "0.00G Style · sklep",
+      "tytul": "Borowik — Mirror Reflection · Bomber Jacket",
+      "opis": "Mirror Reflection — Light recognizing its own face In the water's surface, he saw a mighty, radiant figure – it was himself, draped in great light. Though the water was cold, his voice echoed in the heart as a command to remember. No matter",
+      "kiedy": "2026-11-07T15:05:21.334Z",
+      "obraz": "/media/wystawa/sklep-borowik-bomber-jacket-black.jpg",
+      "cena": 99,
+      "waluta": "EUR",
+      "link": null
     }
   ],
   "uwaga": "Filmy z `youtube` grają wszędzie; bez niego tylko u gospodarza (Most). Utwory z dysku tylko u gospodarza; Suno gra z ramki Suno."
