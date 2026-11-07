@@ -14,7 +14,7 @@
  *   · utwór z dysku Katedry → tylko u gospodarza
  */
 import { useEffect, useState } from 'react';
-import { katalogStatyczny, katalogZywy, produktyZywe, czas, data, type Katalog, type Film, type Suno } from './lib/wystawa';
+import { katalogStatyczny, katalogZywy, produktyZywe, czas, data, type Katalog, type Film, type Suno, type Marka } from './lib/wystawa';
 import { ADRES_KATEDRY } from './lib/katedraPubliczna';
 
 function KartaFilmu({ f, zywy }: { f: Film; zywy: boolean }) {
@@ -98,6 +98,7 @@ function Playlista({ s }: { s: Suno }) {
 export default function Wystawa() {
     const [k, setK] = useState<Katalog | null>(null);
     const [zrodlo, setZrodlo] = useState<'statyczny' | 'zywy' | 'brak'>('brak');
+    const [marka, setMarka] = useState<Marka | null>(null);
 
     useEffect(() => {
         (async () => {
@@ -106,7 +107,9 @@ export default function Wystawa() {
             // Gospodarz: Most żyje → żywy katalog nadpisuje statyczny (plakaty zostają ze statycznego, gdy pasują).
             const z = await katalogZywy();
             // Gość: produkty na żywo z wizytówki Katedry (sklep 0.00G) — same się aktualizują, bez publikowania strony.
-            if (!z) { const p = await produktyZywe(ADRES_KATEDRY); if (p) setK((k0) => ({ ...(k0 ?? { opublikowano: null, filmy: [], utwory: [], suno: [], zywy: false }), produkty: p })); }
+            const pz = await produktyZywe(ADRES_KATEDRY);
+            if (pz?.marka) setMarka(pz.marka);
+            if (!z && pz) setK((k0) => ({ ...(k0 ?? { opublikowano: null, filmy: [], utwory: [], suno: [], zywy: false }), produkty: pz.produkty }));
             if (z) {
                 const plakaty = new Map((s?.filmy ?? []).map((f) => [f.id, f.plakat]));
                 setK({ ...z, filmy: z.filmy.map((f) => ({ ...f, plakat: plakaty.get(f.id) ?? null })), produkty: z.produkty.map((p) => ({ ...p, obraz: s?.produkty.find((x) => x.id === p.id)?.obraz ?? p.obraz })) });
@@ -192,7 +195,13 @@ export default function Wystawa() {
             {/* ── Produkty ── */}
             {produkty.length > 0 && (
                 <section id="produkty" className="mx-auto max-w-6xl scroll-mt-20 px-5 py-16">
-                    <h2 className="text-2xl font-black tracking-tight text-white">Produkty Katedry</h2>
+                    <div className="flex items-center gap-3">
+                        {marka?.logo && <img src={marka.logo} alt={marka.nazwa} className="h-12 w-12 rounded-lg bg-white/5 object-contain p-1" referrerPolicy="origin" />}
+                        <div>
+                            <h2 className="text-2xl font-black tracking-tight text-white">Produkty Katedry</h2>
+                            {marka && <div className="text-[10px] uppercase tracking-[0.25em] text-amber-200/70">{marka.nazwa}{marka.opis ? ` · ${marka.opis}` : ''}</div>}
+                        </div>
+                    </div>
                     <p className="mt-2 max-w-2xl text-sm leading-relaxed text-slate-400">Odzież 0.00G Style z kolekcji postaci TeOgochi — prosto ze sklepu Katedry. Do tego projekty układów i printy z TeO Lab.</p>
                     <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
                         {produkty.map((p) => (

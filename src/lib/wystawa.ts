@@ -53,14 +53,17 @@ export async function katalogZywy(): Promise<Katalog | null> {
  * To, co Stół Produktowy wysłał do sklepu: makieta, cena, link (tylko gdy sklep wystawia produkt publicznie).
  * Katedra śpi = null (strona zostaje przy statycznym wystawa.json).
  */
-export async function produktyZywe(adres: string): Promise<Produkt[] | null> {
+export interface Marka { nazwa: string; opis: string; logo: string | null }
+export async function produktyZywe(adres: string): Promise<{ produkty: Produkt[]; marka: Marka | null } | null> {
     try {
         const r = await fetch(`${adres}/api/wizytowka`, { signal: AbortSignal.timeout(8000) });
         if (!r.ok) return null;
         const d = await r.json();
         const lista = d?.wystawa?.produkty;
         if (!Array.isArray(lista)) return null;
-        return lista.map((p: Produkt) => ({ ...p, obraz: p.obraz ? (p.obraz.startsWith('/') ? `${adres}${p.obraz}` : p.obraz) : null, link: typeof p.link === 'string' && /^https:\/\//.test(p.link) ? p.link : null }));
+        const m = d?.marka;
+        const marka = m?.nazwa ? { nazwa: String(m.nazwa), opis: String(m.opis ?? ''), logo: m.logo ? `${adres}${m.logo}` : null } : null;
+        return { marka, produkty: lista.map((p: Produkt) => ({ ...p, obraz: p.obraz ? (p.obraz.startsWith('/') ? `${adres}${p.obraz}` : p.obraz) : null, link: typeof p.link === 'string' && /^https:\/\//.test(p.link) ? p.link : null })) };
     } catch { return null; }
 }
 
